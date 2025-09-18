@@ -8,7 +8,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Voyage — Travel ML", layout="wide")
 
-with open("styles.css","r") as f:
+with open("voyage_mlops/ui/styles.css","r") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 API_BASE = os.environ.get("API_BASE", "http://voyage:8080")
