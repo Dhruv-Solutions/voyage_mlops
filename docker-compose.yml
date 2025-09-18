@@ -1,0 +1,30 @@
+
+services:
+  mlflow:
+    build: ./mlflow
+    container_name: voyage-mlflow
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./mlflow_db:/mlflow/db
+      - ./mlruns:/mlflow/mlruns
+    restart: unless-stopped
+
+  voyage:
+    build: .
+    container_name: voyage-app
+    environment:
+      - DATA_DIR=/app/data
+      - MODEL_DIR=/app/models
+      - MLFLOW_DIR=/app/mlruns
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - TEST_FRAC=0.2
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./mlruns:/app/mlruns
+    depends_on:
+      - mlflow
+    restart: unless-stopped

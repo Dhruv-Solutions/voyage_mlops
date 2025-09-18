@@ -1,0 +1,2001 @@
+from,to,flightType,time,distance,agency,month,dayofweek,time_minutes,actual_price,pred_price
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,11,0,2.1,852.18,1001.7706695286772
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,rainbow,11,0,2.3,1617.81,1626.4736582384767
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,11,0,1.66,636.51,598.1444186287836
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,flyingdrops,11,0,1.55,1381.55,1269.978356153777
+aracaju (se),campo grande (ms),economic,1.69,650.1,rainbow,11,0,1.69,743.54,764.7953678458981
+aracaju (se),brasilia (df),firstclass,1.11,425.98,cloudfy,11,0,1.11,957.68,970.2445098808237
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,12,3,1.66,885.37,855.2362852841474
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,12,3,2.1,1248.7,1149.5445398895422
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,12,3,1.11,706.36,711.6352748472331
+natal (rn),salvador (bh),economic,1.85,710.57,rainbow,12,3,1.85,959.79,1025.9604376059751
+aracaju (se),sao paulo (sp),economic,1.02,392.76,cloudfy,12,3,1.02,410.79,349.02706194810963
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,12,3,1.84,1315.27,1256.9514299171615
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,12,3,1.66,1087.18,1113.5645112800134
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,12,3,1.69,1581.8,1473.6761124488594
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,cloudfy,12,3,0.44,620.16,673.576556615474
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,12,3,1.84,1315.27,1256.9514299171615
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,rainbow,12,3,1.02,752.27,864.9167739269516
+brasilia (df),natal (rn),firstclass,1.43,550.69,cloudfy,12,3,1.43,1313.76,1419.4587566383243
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,rainbow,12,3,1.36,1114.75,1252.2891920512361
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,cloudfy,12,3,1.36,1149.38,1252.1948869062921
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,12,3,1.49,714.86,749.8544138110934
+brasilia (df),aracaju (se),firstclass,1.11,425.98,cloudfy,12,3,1.11,1260.1,1245.8564374399452
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,12,3,2.3,1611.14,1547.4119923943363
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,12,3,1.49,857.32,1008.0883346620159
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,rainbow,12,3,0.44,367.22,350.9252612082248
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,12,3,2.1,879.1,891.8887487616225
+aracaju (se),rio de janeiro (rj),firstclass,1.55,597.61,flyingdrops,12,3,1.55,1190.94,1128.2167752083005
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,12,3,1.39,1110.76,1125.536558436338
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,cloudfy,12,3,2.44,1640.8,1556.712179608277
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,12,3,2.44,1367.88,1298.5725639022985
+aracaju (se),salvador (bh),economic,2.16,830.86,rainbow,12,3,2.16,943.36,1048.8518285019281
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,12,3,1.02,756.3,872.6035979922289
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,12,3,1.44,1088.87,1160.3366403883088
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,12,3,1.46,1666.23,1451.3803538124612
+brasilia (df),aracaju (se),premium,1.11,425.98,rainbow,12,3,1.11,965.62,987.7168217339664
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,rainbow,12,3,1.02,752.27,864.9167739269516
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,12,4,2.1,1248.7,1149.4601966677105
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,12,4,1.76,803.39,820.4569384387811
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,12,4,1.49,1341.21,1310.9712499763023
+sao paulo (sp),aracaju (se),economic,1.02,392.76,cloudfy,12,4,1.02,722.74,735.6417872496019
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,12,4,0.44,595.09,866.6363248202912
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,12,4,1.84,1570.02,1524.6672436874537
+sao paulo (sp),aracaju (se),economic,1.02,392.76,cloudfy,12,4,1.02,722.74,735.6417872496019
+sao paulo (sp),recife (pe),premium,1.26,486.52,rainbow,12,4,1.26,1145.72,1077.5889707962565
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,12,4,2.1,1515.79,1516.9178086681882
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,12,4,2.1,1174.97,1258.6838878172657
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,12,4,1.84,1165.99,1266.4333228365313
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,12,5,1.84,1570.02,1524.5829004656216
+aracaju (se),natal (rn),premium,0.46,176.33,cloudfy,12,5,0.46,535.95,389.5686666757522
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,12,5,1.44,663.23,699.3856381468062
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,12,5,1.46,693.51,947.4134733407535
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,cloudfy,12,5,0.72,1096.58,972.1343944966962
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,12,6,2.1,1499.93,1524.5302514347454
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,12,6,1.46,947.95,927.5507881028467
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,12,6,1.49,949.58,1007.7409998515768
+salvador (bh),campo grande (ms),economic,1.36,522.34,cloudfy,12,6,1.36,534.41,430.3451848114376
+natal (rn),aracaju (se),firstclass,0.46,176.33,flyingdrops,12,6,0.46,611.59,813.9815342126888
+salvador (bh),aracaju (se),firstclass,2.16,830.86,rainbow,12,0,2.16,1520.02,1452.748261647479
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,12,0,0.72,583.6,456.76070377195686
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,12,0,1.66,1097.17,1121.504365010786
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,12,0,1.69,877.56,958.2280404254003
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,12,0,2.1,1248.7,1149.7975695550372
+sao paulo (sp),recife (pe),premium,1.26,486.52,cloudfy,12,0,1.26,1195.26,1077.83203853864
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,cloudfy,12,0,0.85,946.36,1150.4332605250945
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,12,0,1.21,941.27,1019.4363183172743
+natal (rn),aracaju (se),firstclass,0.46,176.33,rainbow,12,0,0.46,611.4,806.800769478402
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,12,0,1.49,1030.13,1053.0747020127064
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,12,0,2.1,879.1,892.1417784271177
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,12,0,0.72,583.6,456.76070377195686
+natal (rn),recife (pe),economic,0.58,222.67,rainbow,12,0,0.58,406.36,306.32071080738945
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,12,0,1.46,1666.23,1451.6333834779562
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,12,0,1.84,1554.92,1525.0989217197243
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,12,3,0.63,804.24,928.9254574318679
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,cloudfy,12,3,0.67,893.65,899.8228529279207
+recife (pe),rio de janeiro (rj),premium,2.3,885.57,rainbow,12,3,2.3,1351.89,1289.1780715434138
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,cloudfy,12,3,0.44,375.51,157.7811497815759
+aracaju (se),brasilia (df),premium,1.11,425.98,cloudfy,12,3,1.11,755.62,711.5409697022892
+aracaju (se),natal (rn),economic,0.46,176.33,rainbow,12,3,0.46,380.32,132.27017228138374
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,rainbow,12,3,2.09,1754.17,1556.474325313343
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,12,3,1.36,615.26,736.4937852173379
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,12,3,1.46,577.76,689.4425440784382
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,12,3,2.3,1611.14,1547.4119923943363
+brasilia (df),natal (rn),firstclass,1.43,550.69,flyingdrops,12,3,1.43,1433.35,1427.2398858485453
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,flyingdrops,12,3,1.26,954.78,1019.5949055123002
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,rainbow,12,3,2.44,1630.75,1556.806484753221
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,12,3,1.39,991.22,998.3462898706424
+recife (pe),brasilia (df),firstclass,0.63,242.21,cloudfy,12,3,0.63,709.25,715.5438256464705
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,12,3,2.1,1468.03,1407.6841555955207
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,12,3,0.72,1069.61,972.3973860853035
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,12,3,1.66,1087.18,1113.5645112800134
+natal (rn),brasilia (df),firstclass,1.43,550.69,rainbow,12,3,1.43,1286.63,1301.9536755941594
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,12,3,1.84,1348.79,1264.7325591273825
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,12,3,1.49,697.65,749.7601086661497
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,12,3,1.76,1371.83,1336.3366884945108
+brasilia (df),natal (rn),firstclass,1.43,550.69,rainbow,12,3,1.43,1434.91,1419.5530617832683
+aracaju (se),recife (pe),firstclass,1.44,555.74,cloudfy,12,3,1.44,1124.11,1152.5555111780877
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,12,3,1.46,908.17,927.8981229132856
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,flyingdrops,12,3,2.09,1609.81,1564.1611493786204
+sao paulo (sp),recife (pe),economic,1.26,486.52,cloudfy,12,3,1.26,829.91,820.0175228901691
+aracaju (se),natal (rn),firstclass,0.46,176.33,rainbow,12,3,0.46,549.96,648.0655791152818
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,12,3,1.49,714.86,749.8544138110934
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,12,3,2.44,1692.64,1564.493308818498
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,12,4,1.84,873.07,1008.8718368535555
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,12,4,0.72,1069.61,972.3130428634719
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,12,4,1.46,1684.14,1443.514881380408
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,12,4,1.76,695.3,648.439027042946
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,12,4,0.63,432.1,413.0457073761381
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,rainbow,12,4,2.1,1582.41,1517.0121138131317
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,12,4,1.39,1262.23,1264.1826915650104
+salvador (bh),natal (rn),economic,1.85,710.57,rainbow,12,5,1.85,690.89,755.1575871108444
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,12,5,1.69,877.56,957.8063243162416
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,12,5,1.49,764.53,795.0914999205721
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,12,5,1.55,1098.93,1003.4193054663018
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,12,5,1.49,808.63,794.9971947756284
+salvador (bh),aracaju (se),premium,2.16,830.86,cloudfy,12,5,2.16,1209.04,1193.9983195424543
+recife (pe),aracaju (se),firstclass,1.44,555.74,cloudfy,12,5,1.44,1166.1,1215.0867398357605
+natal (rn),brasilia (df),firstclass,1.43,550.69,flyingdrops,12,5,1.43,1192.62,1309.4718132157736
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,12,5,2.1,852.18,1001.1323637574018
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,cloudfy,12,5,0.72,949.99,889.7021098515817
+aracaju (se),natal (rn),economic,0.46,176.33,rainbow,12,5,0.46,380.32,132.1014858377203
+natal (rn),brasilia (df),firstclass,1.43,550.69,rainbow,12,6,1.43,1286.63,1301.7006459286645
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,12,6,2.1,852.18,1001.0480205355701
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,cloudfy,12,6,1.49,478.02,491.94559301767873
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,12,6,1.69,1376.09,1287.5549497519664
+salvador (bh),aracaju (se),economic,2.16,830.86,cloudfy,12,6,2.16,811.73,936.3524903376468
+natal (rn),campo grande (ms),economic,0.65,250.68,rainbow,12,6,0.65,470.16,338.461410396113
+natal (rn),campo grande (ms),premium,0.65,250.68,rainbow,12,0,0.65,660.25,596.528955710079
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,12,0,2.1,819.41,892.2360835720616
+natal (rn),aracaju (se),premium,0.46,176.33,rainbow,12,0,0.46,479.37,548.5668486274795
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,rainbow,12,0,1.36,961.85,946.74095612127
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,12,0,0.44,438.74,608.7397768566956
+recife (pe),aracaju (se),firstclass,1.44,555.74,cloudfy,12,0,1.44,1166.1,1215.5084559449192
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,12,0,2.44,1657.48,1554.1312022144289
+brasilia (df),natal (rn),economic,1.43,550.69,cloudfy,12,0,1.43,791.66,903.9163794699215
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,12,0,1.39,615.59,610.0884864128791
+brasilia (df),rio de janeiro (rj),economic,0.48,183.37,rainbow,12,3,0.48,371.04,235.33148995231875
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,12,3,1.84,780.68,741.250328228207
+brasilia (df),aracaju (se),firstclass,1.11,425.98,cloudfy,12,3,1.11,1260.1,1245.8564374399452
+aracaju (se),salvador (bh),firstclass,2.16,830.86,cloudfy,12,3,2.16,1684.05,1564.5529301908823
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,12,3,0.65,979.56,862.1966709607835
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,rainbow,12,3,2.09,1754.17,1556.474325313343
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,12,3,1.76,1354.53,1336.2423833495673
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,12,3,1.26,883.63,1011.8137763020792
+recife (pe),aracaju (se),firstclass,1.44,555.74,cloudfy,12,3,1.44,1166.1,1215.2554262794238
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,12,3,1.69,1473.41,1481.4572416590804
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,12,3,1.69,1581.8,1473.6761124488594
+brasilia (df),recife (pe),firstclass,0.63,242.21,rainbow,12,3,0.63,772.21,929.0197625768118
+sao paulo (sp),brasilia (df),premium,0.67,257.81,cloudfy,12,3,0.67,602.12,752.2064537135888
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,12,3,1.84,1570.02,1524.7515869092854
+sao paulo (sp),rio de janeiro (rj),economic,0.86,331.89,rainbow,12,3,0.86,625.5,503.9441541383036
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,12,3,2.44,1692.64,1564.493308818498
+campo grande (ms),salvador (bh),premium,1.36,522.34,rainbow,12,3,1.36,834.61,994.0552712003135
+recife (pe),brasilia (df),firstclass,0.63,242.21,flyingdrops,12,3,0.63,697.22,723.3249548566915
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,12,3,1.84,1114.55,998.8118142111827
+campo grande (ms),natal (rn),firstclass,0.65,250.68,cloudfy,12,3,0.65,732.89,889.5826432945565
+campo grande (ms),brasilia (df),economic,0.72,277.7,rainbow,12,3,0.72,517.82,374.1696946062908
+aracaju (se),salvador (bh),firstclass,2.16,830.86,cloudfy,12,3,2.16,1684.05,1564.5529301908823
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,12,3,1.49,808.63,795.1658812192919
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,12,3,1.46,693.51,947.582159784417
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,12,3,0.58,488.73,467.84692152858094
+brasilia (df),campo grande (ms),premium,0.72,277.7,cloudfy,12,3,0.72,831.7,714.0691600894373
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,12,3,0.72,1009.71,980.0842101505808
+campo grande (ms),natal (rn),premium,0.65,250.68,cloudfy,12,3,0.65,652.47,631.3487224436341
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,12,3,1.69,1021.53,1021.792929356318
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,12,3,1.76,1175.62,1164.3187770986756
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,12,3,0.44,438.74,608.4867471912004
+aracaju (se),recife (pe),premium,1.44,555.74,rainbow,12,3,1.44,875.41,894.4158954721091
+florianopolis (sc),natal (rn),premium,1.84,709.37,cloudfy,12,3,1.84,1128.51,998.7175090662389
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,rainbow,12,3,2.44,1630.75,1556.806484753221
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,12,4,0.72,847.83,897.5675822836346
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,flyingdrops,12,4,1.26,954.78,1019.5105622904686
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,12,4,1.76,1371.83,1336.2523452726791
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,12,4,1.84,1554.92,1524.7615488323972
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,12,4,1.49,930.34,1015.6908155054615
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,cloudfy,12,4,1.55,1446.4,1261.6432643941125
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,12,4,2.1,1515.79,1516.9178086681882
+rio de janeiro (rj),recife (pe),premium,2.3,885.57,cloudfy,12,4,2.3,1333.52,1367.5914696931673
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,12,4,2.44,1657.48,1553.7938293271022
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,cloudfy,12,5,1.55,1446.4,1261.5589211722804
+campo grande (ms),recife (pe),premium,1.39,535.4,cloudfy,12,5,1.39,959.91,998.0832982820351
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,12,5,1.84,1554.92,1524.6772056105656
+salvador (bh),recife (pe),premium,2.05,788.55,rainbow,12,5,2.05,1103.23,1081.2495052045465
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,12,5,2.1,819.41,891.8143674629029
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,12,5,1.69,1545.78,1473.6017311501396
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,rainbow,12,5,1.26,1573.5,1335.7385484253473
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,12,5,1.21,941.27,1019.0146022081157
+salvador (bh),campo grande (ms),premium,1.36,522.34,rainbow,12,5,1.36,774.52,688.0853191611887
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,12,5,1.84,780.68,741.0816417845434
+recife (pe),aracaju (se),premium,1.44,555.74,cloudfy,12,5,1.44,932.84,956.8528189848379
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,12,5,1.39,793.15,867.1339511417522
+campo grande (ms),natal (rn),economic,0.65,250.68,cloudfy,12,6,0.65,467.6,373.5342067951633
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,12,6,1.84,1554.92,1524.592862388734
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,12,6,0.44,438.74,608.2337175257052
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,12,6,0.63,432.1,412.87702093247464
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,12,6,1.76,1434.38,1343.7704828942929
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,12,6,1.21,941.27,1018.9302589862839
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,12,6,2.1,1499.93,1524.5302514347454
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,12,6,1.44,1119.47,1152.3967866575363
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,12,6,1.39,991.22,998.0932602051472
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,12,6,0.67,742.94,1010.187344899016
+salvador (bh),florianopolis (sc),premium,2.44,937.77,rainbow,12,6,2.44,1336.68,1295.48552717746
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,12,6,1.44,663.23,699.3012949249743
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,12,6,1.02,647.9,735.5674059508823
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,cloudfy,12,0,1.55,796.42,746.1852304475411
+salvador (bh),florianopolis (sc),premium,2.44,937.77,rainbow,12,0,2.44,1336.68,1295.9915865084504
+salvador (bh),aracaju (se),firstclass,2.16,830.86,cloudfy,12,0,2.16,1531.92,1452.6539565025355
+brasilia (df),aracaju (se),premium,1.11,425.98,rainbow,12,0,1.11,965.62,987.9698513994616
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,cloudfy,12,0,1.55,1091.21,1003.7467164305167
+campo grande (ms),recife (pe),premium,1.39,535.4,cloudfy,12,0,1.39,959.91,998.5050143911939
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,12,0,2.44,1657.48,1554.1312022144289
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,12,3,1.66,885.37,855.2362852841474
+natal (rn),recife (pe),premium,0.58,222.67,cloudfy,12,3,0.58,563.23,563.5348619799261
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,12,3,1.39,615.59,609.8354567473839
+recife (pe),rio de janeiro (rj),premium,2.3,885.57,cloudfy,12,3,2.3,1270.03,1289.0837663984698
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,12,3,1.49,697.65,749.7601086661497
+natal (rn),rio de janeiro (rj),premium,1.55,595.03,cloudfy,12,3,1.55,1102.93,1008.8378756922342
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,12,3,1.26,883.63,1011.8137763020792
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,12,3,0.44,595.09,866.7206680421228
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,12,3,1.46,577.76,689.4425440784382
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,12,3,1.84,1348.79,1264.7325591273825
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,12,3,0.58,488.73,467.84692152858094
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,12,3,1.49,949.58,1007.994029517072
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,12,3,1.76,1175.62,1164.3187770986756
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,12,3,1.76,918.66,905.9905511028095
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,12,3,2.44,1692.64,1564.493308818498
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,12,3,2.1,1499.93,1524.7832811002409
+campo grande (ms),brasilia (df),premium,0.72,277.7,rainbow,12,3,0.72,691.99,631.7311805892664
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,rainbow,12,3,1.21,549.55,768.5733307394152
+brasilia (df),aracaju (se),premium,1.11,425.98,cloudfy,12,3,1.11,987.07,987.6225165890227
+recife (pe),brasilia (df),premium,0.63,242.21,rainbow,12,3,0.63,638.63,457.4042099404919
+campo grande (ms),natal (rn),economic,0.65,250.68,cloudfy,12,3,0.65,467.6,373.7872364606585
+campo grande (ms),natal (rn),premium,0.65,250.68,rainbow,12,3,0.65,541.59,631.4430275885779
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,12,3,1.55,717.04,604.6402391641811
+natal (rn),aracaju (se),firstclass,0.46,176.33,rainbow,12,3,0.46,611.4,806.5477398129068
+campo grande (ms),brasilia (df),economic,0.72,277.7,rainbow,12,3,0.72,517.82,374.1696946062908
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,12,3,1.44,1088.87,1160.3366403883088
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,12,3,1.36,615.26,736.4937852173379
+recife (pe),brasilia (df),economic,0.63,242.21,cloudfy,12,3,0.63,393.68,199.74841881257245
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,12,3,1.49,1310.32,1318.742417263411
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,12,3,1.76,1175.62,1164.3187770986756
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,cloudfy,12,3,0.72,949.99,889.8707962952452
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,cloudfy,12,3,0.44,375.51,157.7811497815759
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,cloudfy,12,3,2.09,1363.27,1298.146099317477
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,rainbow,12,3,1.02,752.27,864.9167739269516
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,12,3,1.66,1576.97,1498.9640544612462
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,cloudfy,12,3,0.44,375.51,157.7811497815759
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,12,3,1.69,1376.09,1287.8079794174614
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,12,3,1.66,1487.52,1498.8697493163022
+recife (pe),aracaju (se),premium,1.44,555.74,cloudfy,12,3,1.44,932.84,957.0215054285013
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,12,3,1.76,695.3,648.5233702647777
+salvador (bh),brasilia (df),economic,1.76,676.56,cloudfy,12,4,1.76,587.85,667.438027029148
+rio de janeiro (rj),recife (pe),premium,2.3,885.57,rainbow,12,4,2.3,1306.26,1367.6857748381108
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,12,4,1.55,1098.93,1003.5036486881337
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,12,4,1.69,1545.78,1473.6860743719717
+sao paulo (sp),brasilia (df),economic,0.67,257.81,rainbow,12,4,0.67,393.84,494.6549296537252
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,12,4,1.84,873.07,1008.8718368535555
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,12,5,1.21,941.27,1019.0146022081157
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,12,5,1.76,803.39,820.3725952169492
+salvador (bh),aracaju (se),economic,2.16,830.86,rainbow,12,5,2.16,826.02,936.5311387044223
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,12,5,2.44,1616.44,1561.4906153154911
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,12,6,1.84,1212.58,1266.3589415378115
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,12,6,1.39,1110.76,1125.283528770843
+rio de janeiro (rj),campo grande (ms),economic,2.09,806.48,rainbow,12,6,2.09,849.52,988.0685881901953
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,12,6,1.66,1087.18,1113.3114816145185
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,12,6,2.44,899.6,1037.9240411944843
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,12,6,1.76,1070.54,1077.8497379780933
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,12,0,1.76,1354.53,1336.4954130150622
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,12,0,2.1,1499.93,1525.0363107657358
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,12,0,1.84,1165.99,1266.770695723858
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,12,0,1.84,1165.99,1266.770695723858
+rio de janeiro (rj),recife (pe),economic,2.3,885.57,cloudfy,12,0,2.3,952.83,1110.3673565975182
+salvador (bh),brasilia (df),premium,1.76,676.56,rainbow,12,0,1.76,882.86,925.4311910443944
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,12,0,1.46,1684.14,1443.8522542677351
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,cloudfy,12,0,1.55,796.42,746.1852304475411
+campo grande (ms),recife (pe),firstclass,1.39,535.4,cloudfy,12,3,1.39,1244.73,1256.485905576621
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,12,3,1.39,1262.23,1264.267034786842
+brasilia (df),campo grande (ms),premium,0.72,277.7,rainbow,12,3,0.72,851.15,714.1634652343811
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,flyingdrops,12,3,1.26,954.78,1019.5949055123002
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,12,3,2.1,1248.7,1149.5445398895422
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,rainbow,12,3,1.46,738.8,947.6764649293608
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,12,3,1.69,1473.41,1481.4572416590804
+brasilia (df),rio de janeiro (rj),premium,0.48,183.37,rainbow,12,3,0.48,440.69,492.89297593529443
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,12,3,0.72,583.6,456.50767410646165
+natal (rn),brasilia (df),firstclass,1.43,550.69,cloudfy,12,3,1.43,1300.53,1301.859370449216
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,12,3,1.76,1354.53,1336.2423833495673
+recife (pe),salvador (bh),firstclass,2.05,788.55,rainbow,12,3,2.05,1470.41,1514.5040309543106
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,cloudfy,12,3,2.3,1612.39,1547.3176872493923
+aracaju (se),salvador (bh),firstclass,2.16,830.86,flyingdrops,12,3,2.16,1714.75,1572.3340594011038
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,12,3,1.76,1300.6,1164.224471953732
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,12,3,1.66,1222.24,1240.7301336103237
+natal (rn),rio de janeiro (rj),premium,1.55,595.03,rainbow,12,3,1.55,1100.85,1008.932180837178
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,rainbow,12,3,0.72,870.91,889.965101440189
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,12,3,1.55,717.04,604.6402391641811
+brasilia (df),salvador (bh),firstclass,1.76,676.56,cloudfy,12,3,1.76,1685.23,1571.5513273254533
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,12,3,1.76,674.52,648.4290651198338
+aracaju (se),natal (rn),economic,0.46,176.33,cloudfy,12,3,0.46,332.1,132.17586713644
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,12,3,1.49,930.34,1015.7751587272932
+aracaju (se),natal (rn),firstclass,0.46,176.33,rainbow,12,3,0.46,549.96,648.0655791152818
+aracaju (se),recife (pe),premium,1.44,555.74,cloudfy,12,3,1.44,835.21,894.3215903271654
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,12,3,1.66,1569.65,1506.6508785265232
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,12,4,0.46,361.68,290.5736846122332
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,12,4,1.02,1269.73,1259.218323293721
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,12,4,1.66,1487.52,1498.7854060944705
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,12,4,1.49,1341.21,1310.9712499763023
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,12,4,1.46,947.95,927.71947454651
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,12,4,0.44,438.74,608.4024039693687
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,12,4,1.46,1367.6,1185.3752656744296
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,12,4,1.49,1341.21,1310.9712499763023
+campo grande (ms),recife (pe),economic,1.39,535.4,rainbow,12,4,1.39,674.16,740.7004606658348
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,12,4,1.49,764.53,795.175843142404
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,12,4,1.11,898.04,977.471676541601
+aracaju (se),natal (rn),economic,0.46,176.33,rainbow,12,4,0.46,380.32,132.18582905955202
+salvador (bh),sao paulo (sp),economic,1.04,401.66,cloudfy,12,4,1.04,358.62,213.51038183644658
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,rainbow,12,4,1.55,1386.46,1261.737569539056
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,1,5,1.69,1376.09,1290.021779257082
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,1,5,1.46,762.89,957.5770888342586
+salvador (bh),sao paulo (sp),premium,1.04,401.66,cloudfy,1,5,1.04,531.49,473.37001088087453
+aracaju (se),brasilia (df),firstclass,1.11,425.98,rainbow,1,5,1.11,959.29,972.0829955377761
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,1,5,1.46,1666.23,1453.5941536520813
+salvador (bh),florianopolis (sc),economic,2.44,937.77,cloudfy,1,5,2.44,943.15,1040.2965655546564
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,1,5,0.46,361.68,292.87182767368546
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,1,5,1.66,1487.52,1501.0835491559228
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,1,5,1.69,1581.8,1475.88991228848
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,rainbow,1,6,0.67,824.31,1012.6641363272439
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,1,6,0.67,727.31,1020.3509603925212
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,1,6,1.84,1165.99,1268.6471226761514
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,1,6,1.11,654.88,732.1904872238358
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,1,6,1.76,1013.4,908.2143128655421
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,1,0,1.49,1031.59,1055.3628831510468
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,1,0,2.1,819.41,894.6185698553455
+salvador (bh),aracaju (se),economic,2.16,830.86,cloudfy,1,0,2.16,811.73,939.2410359519213
+salvador (bh),campo grande (ms),premium,1.36,522.34,cloudfy,1,0,1.36,684.85,690.7952164086877
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,1,0,2.44,1321.52,1298.2797676467908
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,1,0,1.84,1570.02,1527.3871028580643
+sao paulo (sp),recife (pe),premium,1.26,486.52,rainbow,1,0,1.26,1145.72,1080.3088299668677
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,1,3,2.1,819.41,894.3655401898503
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,1,3,1.84,1348.79,1267.1150454106664
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,1,3,2.44,1692.64,1566.875795101782
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,1,3,1.49,930.34,1018.1576450105771
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,1,3,2.1,1248.7,1151.9270261728261
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,1,3,1.84,1114.55,1001.1943004944667
+aracaju (se),salvador (bh),economic,2.16,830.86,rainbow,1,3,2.16,943.36,1051.234314785212
+sao paulo (sp),salvador (bh),economic,1.04,401.66,rainbow,1,3,1.04,743.6,714.9225883636726
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,rainbow,1,3,1.36,1114.75,1254.67167833452
+aracaju (se),salvador (bh),economic,2.16,830.86,rainbow,1,3,2.16,943.36,1051.234314785212
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,1,3,1.76,695.3,650.9058565480616
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,1,3,1.49,857.32,1010.4708209452998
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,1,3,1.69,750.92,766.6139296566263
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,1,3,1.49,714.86,752.2369000943773
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,rainbow,1,3,2.09,1328.88,1300.6228907457044
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,1,3,0.72,661.32,634.0193617276067
+campo grande (ms),recife (pe),economic,1.39,535.4,rainbow,1,3,1.39,674.16,743.1672901709507
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,1,3,1.11,706.36,714.017761130517
+aracaju (se),brasilia (df),firstclass,1.11,425.98,cloudfy,1,3,1.11,957.68,972.1573768364957
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,1,3,0.72,1009.71,982.4666964338647
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,flyingdrops,1,3,2.3,1706.89,1557.4813027428977
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,1,3,1.76,1354.53,1338.6248696328512
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,1,3,1.84,1348.79,1267.1150454106664
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,1,3,1.49,714.86,752.2369000943773
+natal (rn),campo grande (ms),economic,0.65,250.68,cloudfy,1,3,0.65,546.04,341.00262119994846
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,1,3,1.66,885.37,857.6187715674313
+natal (rn),recife (pe),firstclass,0.58,222.67,cloudfy,1,3,0.58,744.11,824.1512691141326
+brasilia (df),rio de janeiro (rj),economic,0.48,183.37,cloudfy,1,3,0.48,344.26,237.61967109065898
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,1,4,1.49,808.63,797.4640242807442
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,1,4,1.46,1684.14,1445.897367663692
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,1,4,2.1,1132.81,1261.1606792454932
+rio de janeiro (rj),recife (pe),economic,2.3,885.57,rainbow,1,4,2.3,932.59,1112.506775138419
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,cloudfy,1,4,0.48,369.57,102.74574259995866
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,1,4,1.69,1581.8,1475.9742555103117
+brasilia (df),natal (rn),firstclass,1.43,550.69,rainbow,1,4,1.43,1434.91,1421.8512048447205
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,cloudfy,1,4,1.21,875.65,1021.3871265682875
+rio de janeiro (rj),campo grande (ms),firstclass,2.09,806.48,flyingdrops,1,4,2.09,1566.26,1514.1019918163183
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,1,4,1.76,761.2,822.7451195771213
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,1,4,1.39,793.15,869.6007806468679
+salvador (bh),aracaju (se),premium,2.16,830.86,rainbow,1,5,2.16,1247.02,1196.4751109706822
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,1,5,1.44,1119.47,1154.8636161626523
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,1,5,1.76,918.66,908.2043509424299
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,1,5,1.44,1088.87,1162.5504402279294
+brasilia (df),florianopolis (sc),premium,1.66,637.56,cloudfy,1,5,1.66,1189.32,1242.8496283050004
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,cloudfy,1,5,1.36,904.66,948.6074211504515
+salvador (bh),aracaju (se),firstclass,2.16,830.86,rainbow,1,5,2.16,1520.02,1454.7090318216042
+florianopolis (sc),aracaju (se),premium,2.1,808.85,cloudfy,1,6,2.1,1149.53,1151.579691362387
+brasilia (df),aracaju (se),premium,1.11,425.98,cloudfy,1,6,1.11,987.07,989.7519732068114
+natal (rn),recife (pe),premium,0.58,222.67,rainbow,1,6,0.58,579.62,565.7586237426586
+natal (rn),recife (pe),economic,0.58,222.67,rainbow,1,6,0.58,406.36,308.19713775968296
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,1,6,2.1,1582.1,1409.9079173582531
+salvador (bh),recife (pe),economic,2.05,788.55,cloudfy,1,0,2.05,767.27,826.3979164690696
+aracaju (se),recife (pe),economic,1.44,555.74,cloudfy,1,0,1.44,604.14,639.3956202929689
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,flyingdrops,1,0,1.36,980.4,956.8102664698312
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,1,0,2.1,869.13,1003.8422610049007
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,1,0,1.66,1569.65,1509.2863944753026
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,1,0,2.44,899.6,1040.8125868087586
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,1,0,1.46,1666.23,1454.01586976124
+aracaju (se),sao paulo (sp),economic,1.02,392.76,rainbow,1,3,1.02,446.73,351.50385337633736
+campo grande (ms),recife (pe),firstclass,1.39,535.4,rainbow,1,3,1.39,1185.95,1258.962697004849
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,1,3,1.21,469.92,512.627591026833
+sao paulo (sp),recife (pe),premium,1.26,486.52,rainbow,1,3,1.26,1145.72,1080.0558003013725
+brasilia (df),campo grande (ms),premium,0.72,277.7,rainbow,1,3,0.72,851.15,716.545951517665
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,1,3,1.76,674.52,650.8115514031178
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,1,3,1.69,1545.78,1476.1529038770873
+campo grande (ms),natal (rn),firstclass,0.65,250.68,flyingdrops,1,3,0.65,749.85,899.7462587880617
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,1,3,2.1,1248.7,1151.9270261728261
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,1,3,1.76,1175.62,1166.7012633819595
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,1,3,1.49,697.65,752.1425949494336
+sao paulo (sp),salvador (bh),economic,1.04,401.66,rainbow,1,3,1.04,743.6,714.9225883636726
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,1,3,1.76,1371.83,1338.7191747777947
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,1,3,2.1,879.1,894.2712350449065
+aracaju (se),brasilia (df),firstclass,1.11,425.98,rainbow,1,3,1.11,959.29,972.2516819814394
+natal (rn),brasilia (df),economic,1.43,550.69,rainbow,1,3,1.43,686.79,788.5407550435455
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,1,3,1.55,717.04,607.0227254474653
+campo grande (ms),salvador (bh),premium,1.36,522.34,cloudfy,1,3,1.36,826.72,996.3434523386537
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,rainbow,1,3,0.44,441.34,417.8194271927793
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,cloudfy,1,3,1.02,730.43,867.2049550652918
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,cloudfy,1,3,1.02,730.43,867.2049550652918
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,1,3,1.76,1300.6,1166.606958237016
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,1,3,1.21,624.89,778.6426410879766
+recife (pe),salvador (bh),economic,2.05,788.55,rainbow,1,3,2.05,861.68,1001.0911104036967
+sao paulo (sp),brasilia (df),premium,0.67,257.81,rainbow,1,4,0.67,586.06,754.5989019199848
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,cloudfy,1,4,1.21,875.65,1021.3871265682875
+recife (pe),brasilia (df),firstclass,0.63,242.21,flyingdrops,1,4,0.63,697.22,725.6230979181438
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,1,4,1.84,1165.99,1268.8158091198152
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,1,4,1.21,941.27,1021.4814317132312
+salvador (bh),aracaju (se),economic,2.16,830.86,rainbow,1,4,2.16,826.02,938.9979682095383
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,cloudfy,1,4,0.44,447.53,610.6905851077089
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,cloudfy,1,4,1.55,796.42,748.2303438434983
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,1,4,1.49,764.53,797.5583294256879
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,1,5,1.66,1097.17,1123.465135184911
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,1,5,2.1,1468.03,1409.8979554351408
+sao paulo (sp),brasilia (df),premium,0.67,257.81,cloudfy,1,5,0.67,602.12,754.4202535532094
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,1,5,1.76,1354.53,1338.4561831891874
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,1,5,1.49,1031.59,1054.941167041888
+natal (rn),recife (pe),premium,0.58,222.67,rainbow,1,5,0.58,579.62,565.8429669644904
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,rainbow,1,5,2.1,1582.41,1519.310256874584
+salvador (bh),campo grande (ms),economic,1.36,522.34,rainbow,1,5,1.36,494.29,432.9063194614972
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,1,5,1.46,1367.6,1187.6734087358818
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,1,6,1.84,873.07,1011.0856366931758
+campo grande (ms),aracaju (se),economic,1.69,650.1,cloudfy,1,6,1.69,886.9,960.0101622327501
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,1,6,1.49,714.86,751.9838704288821
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,1,6,1.46,1370.17,1187.4947603691062
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,cloudfy,1,6,0.44,536.98,417.4720923823403
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,1,6,1.76,918.66,908.1200077205982
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,1,6,1.49,1446.34,1313.090744670979
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,1,0,0.65,979.56,864.8321869095628
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,cloudfy,1,0,1.21,875.65,1021.7244994556145
+salvador (bh),sao paulo (sp),firstclass,1.04,401.66,rainbow,1,0,1.04,667.0,732.1199529858994
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,1,0,1.84,1114.55,1001.4473301599619
+sao paulo (sp),aracaju (se),economic,1.02,392.76,cloudfy,1,0,1.02,722.74,738.3616464202129
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,flyingdrops,1,0,2.3,1702.23,1636.3263789249213
+salvador (bh),recife (pe),firstclass,2.05,788.55,flyingdrops,1,0,2.05,1348.04,1349.9744525131887
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,1,3,1.46,693.51,949.964646067701
+aracaju (se),salvador (bh),premium,2.16,830.86,cloudfy,1,3,2.16,1288.79,1308.7014956232442
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,flyingdrops,1,3,0.67,904.0,909.9864684214257
+brasilia (df),rio de janeiro (rj),premium,0.48,183.37,cloudfy,1,3,0.48,457.95,495.1811570736346
+campo grande (ms),natal (rn),firstclass,0.65,250.68,cloudfy,1,3,0.65,732.89,891.9651295778406
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,1,3,0.63,804.24,931.3079437151519
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,1,3,1.21,469.92,512.627591026833
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,1,3,1.84,1315.27,1259.3339162004454
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,1,3,2.1,819.41,894.3655401898503
+brasilia (df),natal (rn),economic,1.43,550.69,rainbow,1,3,1.43,726.19,906.1401412326541
+aracaju (se),natal (rn),firstclass,0.46,176.33,cloudfy,1,3,0.46,598.61,650.353760253622
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,1,3,2.1,1248.7,1151.9270261728261
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,1,3,2.1,1574.28,1417.8477710890256
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,cloudfy,1,3,0.44,563.0,869.008849180463
+recife (pe),brasilia (df),firstclass,0.63,242.21,cloudfy,1,3,0.63,709.25,717.9263119297545
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,flyingdrops,1,3,1.36,1052.6,1262.358502399797
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,1,3,0.58,488.73,470.2294078118649
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,1,3,1.49,808.63,797.5483675025758
+campo grande (ms),recife (pe),economic,1.39,535.4,rainbow,1,3,1.39,674.16,743.1672901709507
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,cloudfy,1,3,2.3,1612.39,1549.7001735326762
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,1,3,1.49,857.32,1010.4708209452998
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,1,3,1.69,1021.53,1024.1754156396019
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,rainbow,1,3,2.09,1754.17,1558.8568115966268
+sao paulo (sp),brasilia (df),economic,0.67,257.81,rainbow,1,3,0.67,393.84,497.121759158841
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,1,4,1.21,941.27,1021.4814317132312
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,1,4,1.46,762.89,957.6614320560902
+salvador (bh),brasilia (df),economic,1.76,676.56,cloudfy,1,4,1.76,587.85,669.8205133124319
+brasilia (df),aracaju (se),firstclass,1.11,425.98,flyingdrops,1,4,1.11,1287.52,1255.9357097116185
+salvador (bh),sao paulo (sp),premium,1.04,401.66,cloudfy,1,4,1.04,531.49,473.4543541027062
+brasilia (df),florianopolis (sc),premium,1.66,637.56,cloudfy,1,4,1.66,1189.32,1242.933971526832
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,cloudfy,1,4,0.44,563.0,868.9245059586314
+aracaju (se),brasilia (df),economic,1.11,425.98,rainbow,1,4,1.11,548.62,456.37193192570965
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,1,5,1.66,1569.65,1508.8646783661438
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,1,5,1.44,663.23,701.7681244300901
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,flyingdrops,1,5,0.44,668.19,876.6212919470207
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,1,5,1.66,889.07,985.3824474669683
+recife (pe),sao paulo (sp),economic,1.26,486.52,rainbow,1,5,1.26,545.95,498.32647445274546
+sao paulo (sp),brasilia (df),premium,0.67,257.81,rainbow,1,5,0.67,586.06,754.5145586981531
+natal (rn),aracaju (se),firstclass,0.46,176.33,rainbow,1,5,0.46,611.4,808.7615396525273
+natal (rn),campo grande (ms),firstclass,0.65,250.68,cloudfy,1,6,0.65,953.32,856.5449983683513
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,1,6,1.46,908.17,930.0275795310745
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,1,6,1.46,1367.6,1187.5890655140502
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,1,6,0.67,727.31,1020.3509603925212
+salvador (bh),aracaju (se),premium,2.16,830.86,cloudfy,1,6,2.16,1209.04,1196.2964626039065
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,1,6,1.11,654.88,732.1904872238358
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,cloudfy,1,0,0.48,369.57,103.08311548728558
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,1,0,0.67,727.31,1020.8570197235116
+campo grande (ms),brasilia (df),economic,0.72,277.7,rainbow,1,0,0.72,517.82,376.80521055507006
+aracaju (se),brasilia (df),premium,1.11,425.98,cloudfy,1,0,1.11,755.62,714.1764856510684
+brasilia (df),natal (rn),premium,1.43,550.69,rainbow,1,0,1.43,1107.52,1163.9546568811247
+salvador (bh),florianopolis (sc),premium,2.44,937.77,rainbow,1,0,2.44,1336.68,1298.3740727917343
+brasilia (df),aracaju (se),firstclass,1.11,425.98,flyingdrops,1,3,1.11,1287.52,1256.0200529334502
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,1,3,1.76,1300.6,1166.606958237016
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,1,3,1.84,1114.55,1001.1943004944667
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,1,3,1.84,1212.58,1268.9944574865904
+recife (pe),sao paulo (sp),economic,1.26,486.52,cloudfy,1,3,1.26,513.06,498.4008557514651
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,cloudfy,1,3,0.44,620.16,675.959042898758
+brasilia (df),aracaju (se),premium,1.11,425.98,cloudfy,1,3,1.11,987.07,990.0050028723066
+recife (pe),brasilia (df),economic,0.63,242.21,rainbow,1,3,0.63,439.38,202.2252102408002
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,flyingdrops,1,3,1.36,1052.6,1262.358502399797
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,1,3,1.66,1087.18,1115.9469975632974
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,1,3,1.66,814.55,857.7130767123751
+aracaju (se),recife (pe),premium,1.44,555.74,rainbow,1,3,1.44,875.41,896.798381755393
+campo grande (ms),recife (pe),economic,1.39,535.4,rainbow,1,3,1.39,674.16,743.1672901709507
+florianopolis (sc),natal (rn),economic,1.84,709.37,cloudfy,1,3,1.84,726.95,743.5385093665471
+brasilia (df),natal (rn),premium,1.43,550.69,rainbow,1,3,1.43,1107.52,1163.7016272156297
+aracaju (se),salvador (bh),economic,2.16,830.86,cloudfy,1,3,2.16,964.83,1051.1400096402685
+aracaju (se),sao paulo (sp),premium,1.02,392.76,rainbow,1,3,1.02,588.14,609.0653393593129
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,1,3,1.49,697.65,752.1425949494336
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,1,3,1.84,873.07,1011.338666358671
+brasilia (df),recife (pe),premium,0.63,242.21,cloudfy,1,3,0.63,568.38,673.0740228642294
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,1,3,1.11,472.72,456.3619700025976
+aracaju (se),rio de janeiro (rj),firstclass,1.55,597.61,flyingdrops,1,3,1.55,1190.94,1130.5992614915845
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,1,3,1.46,1684.14,1445.981710885524
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,1,3,1.76,695.3,650.9058565480616
+brasilia (df),sao paulo (sp),premium,0.67,257.81,cloudfy,1,3,0.67,698.1,643.9714183602822
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,1,3,1.76,1175.62,1166.7012633819595
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,1,3,1.21,469.92,512.627591026833
+aracaju (se),sao paulo (sp),economic,1.02,392.76,rainbow,1,3,1.02,446.73,351.50385337633736
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,1,3,1.46,762.89,957.745775277922
+campo grande (ms),natal (rn),firstclass,0.65,250.68,flyingdrops,1,3,0.65,749.85,899.7462587880617
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,1,3,1.49,857.32,1010.4708209452998
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,1,3,1.49,857.32,1010.4708209452998
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,1,3,1.02,756.3,874.9860842755128
+aracaju (se),natal (rn),firstclass,0.46,176.33,cloudfy,1,3,0.46,598.61,650.353760253622
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,1,3,1.44,684.88,701.8425057288097
+brasilia (df),rio de janeiro (rj),premium,0.48,183.37,cloudfy,1,3,0.48,457.95,495.1811570736346
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,cloudfy,1,3,0.44,563.0,869.008849180463
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,1,3,2.1,1174.97,1261.1507173223813
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,1,4,1.21,941.27,1021.4814317132312
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,1,4,1.49,1031.59,1055.0255102637198
+sao paulo (sp),brasilia (df),economic,0.67,257.81,cloudfy,1,4,0.67,389.47,496.94311079206545
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,1,4,1.44,1119.47,1154.947959384484
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,1,4,0.44,438.74,610.7848902526528
+recife (pe),brasilia (df),premium,0.63,242.21,rainbow,1,4,0.63,638.63,459.7023530019442
+rio de janeiro (rj),sao paulo (sp),firstclass,0.86,331.89,rainbow,1,4,0.86,714.13,776.6305971281946
+campo grande (ms),brasilia (df),economic,0.72,277.7,rainbow,1,5,0.72,517.82,376.3834944459114
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,1,5,2.1,1174.97,1260.9820308787175
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,1,5,1.84,1570.02,1526.9653867489055
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,1,5,2.1,852.18,1003.5148500406857
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,1,5,0.63,573.61,459.52370463516866
+campo grande (ms),natal (rn),firstclass,0.65,250.68,rainbow,1,6,0.65,778.01,891.8064050572892
+aracaju (se),recife (pe),premium,1.44,555.74,rainbow,1,6,1.44,875.41,896.5453520898978
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,flyingdrops,1,6,1.36,980.4,956.3042071388408
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,1,6,1.02,1269.73,1261.4321231333415
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,1,6,1.69,1581.8,1475.8055690666483
+rio de janeiro (rj),campo grande (ms),firstclass,2.09,806.48,cloudfy,1,0,2.09,1512.09,1506.658235493424
+rio de janeiro (rj),florianopolis (sc),premium,1.21,466.3,cloudfy,1,0,1.21,708.27,763.4905786046919
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,cloudfy,1,0,0.72,949.99,892.5063122440243
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,1,0,1.02,647.9,738.4559515651566
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,1,0,0.46,361.68,293.2935437828441
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,rainbow,1,0,2.3,1617.81,1628.6395548596438
+salvador (bh),aracaju (se),firstclass,2.16,830.86,cloudfy,1,0,2.16,1531.92,1455.0364427858194
+aracaju (se),salvador (bh),firstclass,2.16,830.86,cloudfy,2,3,2.16,1684.05,1566.7188268120499
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,cloudfy,2,3,0.48,649.64,753.1984882624403
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,2,3,1.69,1387.89,1282.2870519733515
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,2,3,0.67,727.31,1020.3874003958996
+campo grande (ms),recife (pe),firstclass,1.39,535.4,rainbow,2,3,1.39,1185.95,1258.746107342732
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,2,3,2.1,1515.79,1519.168048511187
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,2,3,1.46,577.76,691.6084406996055
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,2,3,1.36,615.26,738.6596818385052
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,2,3,2.44,1367.88,1300.7384605234656
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,2,3,2.1,1248.7,1151.7104365107093
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,2,3,1.46,762.89,957.5291856158052
+brasilia (df),sao paulo (sp),economic,0.67,257.81,cloudfy,2,3,0.67,538.95,386.19334271518983
+brasilia (df),rio de janeiro (rj),premium,0.48,183.37,rainbow,2,3,0.48,440.69,495.05887255646167
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,2,3,1.39,1110.76,1127.7024550575054
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,rainbow,2,3,1.55,930.12,864.461926913268
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,2,3,0.72,1069.61,974.5632827064708
+recife (pe),aracaju (se),firstclass,1.44,555.74,rainbow,2,3,1.44,1181.19,1217.5156280455349
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,2,3,1.84,1165.99,1268.68356267953
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,2,3,1.26,883.63,1013.9796729232465
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,rainbow,2,3,0.44,644.16,675.836758381585
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,2,3,1.21,469.92,512.4110013647162
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,2,3,2.1,1248.7,1151.7104365107093
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,2,3,1.69,1545.78,1475.9363142149705
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,2,3,1.84,780.68,743.4162248493742
+brasilia (df),sao paulo (sp),premium,0.67,257.81,rainbow,2,3,0.67,750.0,643.8491338431093
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,2,3,1.46,947.95,929.9697143895091
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,2,3,1.84,780.68,743.4162248493742
+natal (rn),salvador (bh),premium,1.85,710.57,rainbow,2,3,1.85,1315.97,1285.687820210118
+recife (pe),natal (rn),economic,0.58,222.67,rainbow,2,3,0.58,360.22,212.45133216677254
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,2,3,2.1,1174.97,1260.9341276602645
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,2,3,1.21,481.42,512.5053065096599
+brasilia (df),natal (rn),premium,1.43,550.69,rainbow,2,3,1.43,1107.52,1163.485037553513
+brasilia (df),natal (rn),firstclass,1.43,550.69,cloudfy,2,3,1.43,1313.76,1421.6246532594919
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,2,3,1.66,814.55,857.4964870502585
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,2,3,1.66,636.51,599.8406959223389
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,2,3,1.49,949.58,1010.1599261382393
+natal (rn),campo grande (ms),premium,0.65,250.68,rainbow,2,4,0.65,660.25,598.3574794439194
+salvador (bh),aracaju (se),economic,2.16,830.86,rainbow,2,4,2.16,826.02,938.7813785474215
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,rainbow,2,4,2.1,1582.41,1519.1780104342988
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,2,4,0.72,583.6,458.5892275057972
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,2,4,1.46,1367.6,1187.5411622955967
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,2,4,1.69,750.92,766.3129967726779
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,cloudfy,2,4,0.48,369.57,102.52915293784193
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,2,4,1.46,1370.17,1187.4468571506532
+rio de janeiro (rj),natal (rn),firstclass,1.55,595.03,flyingdrops,2,5,1.55,1187.1,1259.659936851121
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,2,5,0.46,361.68,292.6552380115687
+sao paulo (sp),natal (rn),economic,0.85,327.55,cloudfy,2,5,0.85,488.57,636.3820342032051
+rio de janeiro (rj),natal (rn),firstclass,1.55,595.03,rainbow,2,5,1.55,1194.15,1251.973112785844
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,2,5,1.46,1370.17,1187.3625139288215
+recife (pe),natal (rn),economic,0.58,222.67,rainbow,2,5,0.58,360.22,212.2826457231091
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,2,5,1.69,1116.83,1023.8844446787656
+campo grande (ms),recife (pe),firstclass,1.39,535.4,cloudfy,2,5,1.39,1244.73,1258.4831157541248
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,2,5,1.49,1446.34,1312.9584982306937
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,2,5,1.76,803.39,822.5384918381164
+salvador (bh),aracaju (se),firstclass,2.16,830.86,cloudfy,2,5,2.16,1531.92,1454.3981370145439
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,flyingdrops,2,6,0.67,904.0,909.5168490938137
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,2,6,2.1,869.13,1003.1196120117935
+sao paulo (sp),brasilia (df),economic,0.67,257.81,cloudfy,2,6,0.67,389.47,496.5578346862853
+rio de janeiro (rj),brasilia (df),premium,0.48,183.37,rainbow,2,6,0.48,435.67,360.0162576220978
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,2,6,1.66,1576.97,1500.8769214169179
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,2,6,1.11,898.04,979.4688867191048
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,rainbow,2,6,1.21,519.1,505.3007487735531
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,2,6,1.49,764.53,797.1730533199077
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,flyingdrops,2,0,1.55,1381.55,1271.9276631128273
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,2,0,1.69,877.56,960.3939370465677
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,2,0,1.66,1222.24,1243.1490598969863
+salvador (bh),campo grande (ms),premium,1.36,522.34,rainbow,2,0,1.36,774.52,690.6729318915146
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,2,0,2.44,899.6,1040.5959971466418
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,2,0,1.11,898.04,979.9749460500952
+recife (pe),aracaju (se),premium,1.44,555.74,rainbow,2,0,1.44,932.22,959.5347368601076
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,2,0,1.66,1127.36,1115.8891324217323
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,2,3,0.67,742.94,1012.6062711856786
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,flyingdrops,2,3,0.44,684.65,683.5235824468622
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,2,3,2.1,1174.97,1260.9341276602645
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,2,3,2.1,819.41,894.1489505277335
+brasilia (df),recife (pe),premium,0.63,242.21,cloudfy,2,3,0.63,568.38,672.8574332021127
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,2,3,1.46,762.89,957.5291856158052
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,2,3,1.66,1576.97,1501.1299510824133
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,2,3,0.72,847.83,899.8178221266336
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,2,3,1.39,1262.23,1266.4329314080092
+natal (rn),recife (pe),economic,0.58,222.67,cloudfy,2,3,0.58,429.77,308.13927261811773
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,2,3,0.67,727.31,1020.3874003958996
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,2,3,1.46,693.51,949.7480564055842
+brasilia (df),salvador (bh),economic,1.76,676.56,rainbow,2,3,1.76,921.08,1058.0161222576664
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,2,3,1.69,1545.78,1475.9363142149705
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,2,3,1.11,898.04,979.7219163846
+campo grande (ms),aracaju (se),premium,1.69,650.1,rainbow,2,3,1.69,1146.95,1217.702393364048
+campo grande (ms),aracaju (se),premium,1.69,650.1,cloudfy,2,3,1.69,1215.45,1217.6080882191045
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,2,3,1.84,1554.92,1527.011788675396
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,2,3,2.1,852.18,1003.4669468222326
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,2,3,1.76,1434.38,1346.1894091809554
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,2,3,1.39,615.59,612.0013533685511
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,rainbow,2,3,1.55,712.64,606.9004409302922
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,2,3,1.49,808.63,797.3317778404592
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,2,3,2.1,1574.28,1417.6311814269088
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,cloudfy,2,3,1.46,426.91,433.9526495716861
+campo grande (ms),aracaju (se),premium,1.69,650.1,rainbow,2,3,1.69,1146.95,1217.702393364048
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,rainbow,2,3,1.21,549.55,770.7392273605825
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,2,3,1.44,684.88,701.625916066693
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,2,3,1.76,1013.4,908.2507528689206
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,rainbow,2,3,0.85,932.87,1152.4404326257104
+recife (pe),natal (rn),firstclass,0.58,222.67,flyingdrops,2,3,0.58,633.71,735.9335630659479
+recife (pe),natal (rn),economic,0.58,222.67,cloudfy,2,3,0.58,301.51,212.3570270218288
+natal (rn),sao paulo (sp),premium,0.85,327.55,rainbow,2,4,0.85,879.87,665.905260727257
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,2,4,2.1,852.18,1003.3826036004009
+salvador (bh),sao paulo (sp),economic,1.04,401.66,cloudfy,2,4,1.04,358.62,215.67627845761388
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,2,4,1.66,1569.65,1508.7324319258587
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,2,4,1.55,1098.93,1005.6695453093009
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,flyingdrops,2,4,1.84,1540.6,1534.6142695188419
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,2,4,0.44,381.83,159.95700832585518
+brasilia (df),natal (rn),firstclass,1.43,550.69,flyingdrops,2,4,1.43,1433.35,1429.3214392478808
+natal (rn),recife (pe),premium,0.58,222.67,cloudfy,2,4,0.58,563.23,565.6164153792616
+salvador (bh),brasilia (df),premium,1.76,676.56,cloudfy,2,4,1.76,836.89,927.165409633291
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,2,4,1.76,1300.6,1166.3060253530675
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,2,4,1.66,1569.65,1508.7324319258587
+rio de janeiro (rj),sao paulo (sp),premium,0.86,331.89,cloudfy,2,4,0.86,645.44,518.0857814702115
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,2,5,1.49,1446.34,1312.9584982306937
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,2,5,1.02,1269.73,1261.2998766930568
+salvador (bh),natal (rn),economic,1.85,710.57,rainbow,2,6,1.85,690.89,757.2391405101799
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,2,6,1.76,1371.83,1338.249555450183
+brasilia (df),natal (rn),premium,1.43,550.69,cloudfy,2,6,1.43,1067.3,1163.137702743074
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,2,6,1.46,1367.6,1187.3724758519334
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,2,6,1.39,991.22,1000.2591568263144
+aracaju (se),sao paulo (sp),economic,1.02,392.76,cloudfy,2,6,1.02,410.79,350.9399289037817
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,2,6,1.49,808.63,797.078748174964
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,2,6,1.76,761.2,822.3598434713409
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,2,0,2.1,1468.03,1410.1030818821832
+salvador (bh),recife (pe),premium,2.05,788.55,rainbow,2,0,2.05,1103.23,1083.8371179348724
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,2,0,1.69,750.92,766.6503696600048
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,2,0,1.69,1387.89,1282.540081638847
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,2,0,2.1,1248.7,1151.9634661762043
+aracaju (se),salvador (bh),firstclass,2.16,830.86,flyingdrops,2,3,2.16,1714.75,1574.499956022271
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,2,3,1.76,1292.29,1174.1714977851202
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,2,3,1.49,1446.34,1313.127184674357
+sao paulo (sp),natal (rn),economic,0.85,327.55,cloudfy,2,3,0.85,488.57,636.5507206468685
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,2,3,2.44,1692.64,1566.6592054396656
+recife (pe),salvador (bh),economic,2.05,788.55,rainbow,2,3,2.05,861.68,1000.8745207415799
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,2,3,1.66,1576.97,1501.1299510824133
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,flyingdrops,2,3,0.67,904.0,909.7698787593089
+recife (pe),salvador (bh),premium,2.05,788.55,rainbow,2,3,2.05,1249.83,1258.4360067245557
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,2,3,1.66,885.37,857.4021819053147
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,rainbow,2,3,1.55,930.12,864.461926913268
+recife (pe),natal (rn),premium,0.58,222.67,cloudfy,2,3,0.58,474.6,469.9185130048044
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,2,3,2.1,819.41,894.1489505277335
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,2,3,1.46,577.76,691.6084406996055
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,cloudfy,2,3,2.3,1612.39,1549.4835838705599
+florianopolis (sc),salvador (bh),economic,2.44,937.77,cloudfy,2,3,2.44,898.67,1043.0826693955464
+aracaju (se),natal (rn),economic,0.46,176.33,cloudfy,2,3,0.46,332.1,134.34176375760725
+florianopolis (sc),brasilia (df),economic,1.66,637.56,rainbow,2,3,1.66,555.01,599.9350010672828
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,2,3,1.69,1116.83,1024.053131122429
+brasilia (df),salvador (bh),premium,1.76,676.56,cloudfy,2,3,1.76,1346.6,1315.4833030956984
+campo grande (ms),salvador (bh),premium,1.36,522.34,cloudfy,2,3,1.36,826.72,996.126862676537
+campo grande (ms),aracaju (se),premium,1.69,650.1,cloudfy,2,3,1.69,1215.45,1217.6080882191045
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,2,3,1.21,585.77,770.6449222156388
+sao paulo (sp),natal (rn),economic,0.85,327.55,rainbow,2,4,0.85,530.03,636.5606825699806
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,2,4,1.66,1222.24,1242.8116870096592
+campo grande (ms),brasilia (df),premium,0.72,277.7,rainbow,2,4,0.72,691.99,633.8127339886021
+campo grande (ms),natal (rn),economic,0.65,250.68,rainbow,2,4,0.65,411.05,375.96309500493777
+natal (rn),brasilia (df),firstclass,1.43,550.69,cloudfy,2,4,1.43,1300.53,1303.9409238485514
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,cloudfy,2,4,2.3,1664.01,1627.9912871652568
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,2,5,2.1,1174.97,1260.7654412166007
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,rainbow,2,5,1.55,1386.46,1263.8191229383915
+campo grande (ms),recife (pe),economic,1.39,535.4,rainbow,2,5,1.39,674.16,742.7820140651704
+natal (rn),campo grande (ms),premium,0.65,250.68,rainbow,2,5,0.65,660.25,598.2731362220877
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,2,5,1.46,947.95,929.8010279458456
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,rainbow,2,5,1.02,1159.84,1253.6130526277793
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,2,5,1.49,930.34,1017.7723689047967
+salvador (bh),campo grande (ms),economic,1.36,522.34,cloudfy,2,5,1.36,534.41,432.59542465443667
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,flyingdrops,2,5,1.26,954.78,1021.5921156898041
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,2,5,2.1,852.18,1003.298260378569
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,2,6,2.1,1582.1,1409.6913276961363
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,cloudfy,2,6,0.44,335.16,352.74382301895304
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,2,6,1.66,1487.52,1500.7826162719743
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,2,0,1.46,1367.6,1187.8785351829238
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,2,0,1.46,947.95,930.2227440550043
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,2,0,2.44,899.6,1040.5959971466418
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,2,0,1.76,1070.54,1080.5216939302509
+campo grande (ms),aracaju (se),economic,1.69,650.1,cloudfy,2,0,1.69,886.9,960.2996319016238
+brasilia (df),sao paulo (sp),economic,0.67,257.81,rainbow,2,0,0.67,533.8,386.5406775256288
+aracaju (se),natal (rn),firstclass,0.46,176.33,rainbow,2,0,0.46,549.96,650.4845054019443
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,rainbow,2,3,1.84,1385.49,1259.2116316832721
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,2,3,1.02,756.3,874.7694946133961
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,2,3,1.76,1175.62,1166.4846737198432
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,2,3,1.84,1554.92,1527.011788675396
+brasilia (df),recife (pe),premium,0.63,242.21,rainbow,2,3,0.63,559.13,672.9517383470564
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,2,3,1.76,674.52,650.594961741001
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,2,3,1.84,1315.27,1259.1173265383286
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,2,3,1.76,674.52,650.594961741001
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,2,3,1.66,814.55,857.4964870502585
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,2,3,1.49,857.32,1010.254231283183
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,2,3,1.39,991.22,1000.5121864918096
+recife (pe),campo grande (ms),premium,1.39,535.4,rainbow,2,3,1.39,832.77,869.5628393515267
+campo grande (ms),natal (rn),firstclass,0.65,250.68,flyingdrops,2,3,0.65,749.85,899.5296691259449
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,2,3,1.49,930.34,1017.9410553484603
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,2,3,1.11,654.88,732.2269272272143
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,2,3,1.46,762.89,957.5291856158052
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,2,3,1.76,761.2,822.6128731368361
+florianopolis (sc),salvador (bh),economic,2.44,937.77,cloudfy,2,3,2.44,898.67,1043.0826693955464
+recife (pe),campo grande (ms),firstclass,1.39,535.4,rainbow,2,3,1.39,1069.12,1127.7967602024491
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,2,3,1.66,1127.36,1115.636102756237
+aracaju (se),brasilia (df),firstclass,1.11,425.98,cloudfy,2,3,1.11,957.68,971.940787174379
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,2,3,0.72,583.6,458.6735707276289
+florianopolis (sc),salvador (bh),economic,2.44,937.77,cloudfy,2,3,2.44,898.67,1043.0826693955464
+aracaju (se),sao paulo (sp),premium,1.02,392.76,cloudfy,2,3,1.02,630.34,608.7544445522525
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,2,3,1.69,1387.89,1282.2870519733515
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,2,3,2.1,819.41,894.1489505277335
+recife (pe),campo grande (ms),firstclass,1.39,535.4,rainbow,2,3,1.39,1069.12,1127.7967602024491
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,2,3,2.44,1367.88,1300.7384605234656
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,rainbow,2,3,1.49,544.86,494.458824449285
+salvador (bh),brasilia (df),premium,1.76,676.56,rainbow,2,4,1.76,882.86,927.2597147782348
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,cloudfy,2,4,0.44,447.53,610.4739954455922
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,2,4,2.1,1574.28,1417.5468382050772
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,2,4,1.49,1031.59,1054.8089206016032
+rio de janeiro (rj),sao paulo (sp),premium,0.86,331.89,cloudfy,2,4,0.86,645.44,518.0857814702115
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,2,4,0.65,979.56,864.2782243601192
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,2,5,1.49,1031.59,1054.7245773797713
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,flyingdrops,2,5,1.84,1540.6,1534.5299262970102
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,rainbow,2,5,1.02,1159.84,1253.6130526277793
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,2,5,1.69,1545.78,1475.7676277713067
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,2,5,1.69,1376.09,1289.8051895949652
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,2,5,1.49,930.34,1017.7723689047967
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,2,5,1.46,947.95,929.8010279458456
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,cloudfy,2,5,1.55,796.42,747.9294109595497
+recife (pe),aracaju (se),firstclass,1.44,555.74,flyingdrops,2,5,1.44,1300.81,1225.0337656671486
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,2,5,2.1,1499.93,1526.7804912777442
+recife (pe),brasilia (df),economic,0.63,242.21,rainbow,2,6,0.63,439.38,201.75559091318829
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,2,6,2.1,1132.81,1260.775403139713
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,rainbow,2,6,2.44,1654.09,1555.8853446495496
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,flyingdrops,2,6,1.36,980.4,956.0876174767241
+brasilia (df),florianopolis (sc),premium,1.66,637.56,cloudfy,2,6,1.66,1189.32,1242.548695421052
+salvador (bh),aracaju (se),premium,2.16,830.86,cloudfy,2,0,2.16,1209.04,1196.5859322727802
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,2,0,1.46,1367.6,1187.8785351829238
+recife (pe),campo grande (ms),economic,1.39,535.4,cloudfy,2,0,1.39,563.71,612.1600778891025
+brasilia (df),natal (rn),firstclass,1.43,550.69,flyingdrops,2,0,1.43,1433.35,1429.6588121352079
+brasilia (df),natal (rn),firstclass,1.43,550.69,cloudfy,2,0,1.43,1313.76,1421.8776829249869
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,2,0,1.44,684.88,701.8789457321882
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,2,0,1.49,1446.34,1313.3802143398525
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,2,0,1.44,1119.47,1155.0687426096943
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,flyingdrops,3,3,1.26,1464.89,1345.543365893339
+campo grande (ms),natal (rn),economic,0.65,250.68,cloudfy,3,3,0.65,467.6,375.73654341970905
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,cloudfy,3,3,1.46,554.87,691.2975458925449
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,3,3,2.1,869.13,1003.156052015172
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,3,3,1.69,1116.83,1023.8365414603123
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,3,3,1.76,1175.62,1166.2680840577264
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,3,3,1.49,930.34,1017.7244656863436
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,3,3,2.44,915.02,1042.9603848783734
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,3,3,1.69,1021.53,1023.7422363153686
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,3,3,2.1,1132.81,1260.8118431430917
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,3,3,1.39,615.59,611.7847637064344
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,3,3,0.72,847.83,899.6012324645168
+campo grande (ms),aracaju (se),economic,1.69,650.1,cloudfy,3,3,1.69,886.9,959.8300125740119
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,cloudfy,3,3,1.21,313.62,254.63292571962387
+recife (pe),natal (rn),firstclass,0.58,222.67,flyingdrops,3,3,0.58,633.71,735.7169734038312
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,3,3,1.76,918.66,907.93985806186
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,3,3,2.44,1367.88,1300.5218708613488
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,3,3,1.55,717.04,606.5895461232317
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,3,3,1.84,1348.79,1266.6818660864328
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,3,3,1.49,949.58,1009.9433364761225
+natal (rn),sao paulo (sp),economic,0.85,327.55,cloudfy,3,3,0.85,623.33,408.1172231590527
+aracaju (se),natal (rn),firstclass,0.46,176.33,rainbow,3,3,0.46,549.96,650.0148860743324
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,rainbow,3,3,1.46,427.0,433.8303650545132
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,3,3,1.21,469.92,512.1944117025994
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,3,3,2.3,1611.14,1549.3612993533866
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,rainbow,3,3,1.21,317.08,254.72723086456764
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,rainbow,3,3,1.36,1114.75,1254.2384990102864
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,cloudfy,3,3,0.67,893.65,901.7721598869713
+natal (rn),recife (pe),firstclass,0.58,222.67,flyingdrops,3,3,0.58,694.42,831.4992190001201
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,3,3,1.46,577.76,691.3918510374888
+brasilia (df),florianopolis (sc),premium,1.66,637.56,cloudfy,3,3,1.66,1189.32,1242.5851354244305
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,cloudfy,3,3,1.02,730.43,866.7717757410583
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,cloudfy,3,3,1.21,313.62,254.63292571962387
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,cloudfy,3,3,2.3,1612.39,1549.266994208443
+natal (rn),brasilia (df),economic,1.43,550.69,cloudfy,3,3,1.43,697.51,788.0132705743682
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,cloudfy,3,3,1.55,1007.72,864.1510321062075
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,3,3,1.66,1569.65,1508.600185485574
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,3,4,1.84,1212.58,1268.4769349405256
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,3,4,1.44,1088.87,1162.2016041255279
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,cloudfy,3,4,1.21,533.69,505.158540410156
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,3,4,1.69,1581.8,1475.5410761860785
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,3,4,1.84,1212.58,1268.4769349405256
+natal (rn),aracaju (se),firstclass,0.46,176.33,flyingdrops,3,4,0.46,611.59,816.0995276154027
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,3,4,1.69,1116.83,1023.7521982384807
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,3,4,1.11,706.36,713.5002385844517
+aracaju (se),campo grande (ms),economic,1.69,650.1,rainbow,3,4,1.69,743.54,766.190712255505
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,3,4,1.76,1074.75,1079.8734262358635
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,3,4,0.63,804.24,930.7904211690867
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,3,4,1.69,1376.09,1289.6729431546805
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,3,5,1.46,908.17,929.6787434286726
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,3,5,1.66,1576.97,1500.7446749766332
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,3,5,1.66,1569.65,1508.4314990419102
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,rainbow,3,5,1.02,1159.84,1253.3964629656625
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,3,5,1.02,1269.73,1261.08328703094
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,3,5,1.39,1110.76,1127.3171789517253
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,3,5,1.46,1684.14,1445.3798451176272
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,3,6,1.46,1370.17,1187.061581044873
+recife (pe),aracaju (se),firstclass,1.44,555.74,rainbow,3,6,1.44,1181.19,1217.046008717923
+natal (rn),florianopolis (sc),economic,1.84,709.37,rainbow,3,6,1.84,884.4,1010.7467625138862
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,3,6,1.39,1110.76,1127.2328357298934
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,flyingdrops,3,6,1.21,961.99,1028.5663900106117
+florianopolis (sc),natal (rn),premium,1.84,709.37,cloudfy,3,0,1.84,1128.51,1000.9198456907847
+salvador (bh),brasilia (df),economic,1.76,676.56,cloudfy,3,0,1.76,587.85,669.7247068755254
+rio de janeiro (rj),sao paulo (sp),economic,0.86,331.89,rainbow,3,0,0.86,452.56,260.73938385738995
+salvador (bh),aracaju (se),premium,2.16,830.86,rainbow,3,0,2.16,1247.02,1196.4636477556073
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,rainbow,3,0,0.48,364.34,102.7442413079959
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,cloudfy,3,0,0.48,369.57,102.64993616305213
+rio de janeiro (rj),recife (pe),economic,2.3,885.57,rainbow,3,0,2.3,932.59,1112.4109687015125
+recife (pe),sao paulo (sp),premium,1.26,486.52,rainbow,3,0,1.26,670.13,755.8764972206462
+brasilia (df),campo grande (ms),premium,0.72,277.7,rainbow,3,0,0.72,851.15,716.3658018589268
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,3,3,2.3,1611.14,1549.3612993533866
+sao paulo (sp),brasilia (df),premium,0.67,257.81,rainbow,3,3,0.67,586.06,754.250065817583
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,cloudfy,3,3,0.44,620.16,675.5258635745245
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,3,3,1.11,898.04,979.5053267224833
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,3,3,2.1,1248.7,1151.4938468485925
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,3,3,1.69,1545.78,1475.7197245528537
+aracaju (se),natal (rn),firstclass,0.46,176.33,cloudfy,3,3,0.46,598.61,649.9205809293886
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,3,3,2.1,1468.03,1409.633462554571
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,3,3,1.84,1114.55,1000.7611211702332
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,3,3,1.69,877.56,959.9243177189556
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,3,3,1.66,814.55,857.2798973881416
+campo grande (ms),salvador (bh),premium,1.36,522.34,cloudfy,3,3,1.36,826.72,995.9102730144203
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,3,3,1.11,654.88,732.0103375650975
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,rainbow,3,3,2.09,1328.88,1300.1897114214712
+florianopolis (sc),natal (rn),premium,1.84,709.37,cloudfy,3,3,1.84,1128.51,1000.6668160252894
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,3,3,0.46,427.25,391.7809652234099
+recife (pe),rio de janeiro (rj),premium,2.3,885.57,rainbow,3,3,2.3,1351.89,1291.1273785024641
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,3,3,0.46,427.25,391.7809652234099
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,3,3,1.49,949.58,1009.9433364761225
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,3,3,1.11,706.36,713.5845818062835
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,cloudfy,3,3,0.67,893.65,901.7721598869713
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,3,3,1.66,1097.17,1123.2006423043413
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,cloudfy,3,3,1.46,426.91,433.7360599095694
+salvador (bh),natal (rn),firstclass,1.85,710.57,flyingdrops,3,4,1.85,1241.04,1280.673468190902
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,3,4,0.67,742.94,1012.3053383017301
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,rainbow,3,4,1.26,1573.5,1337.7721986062297
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,3,4,1.84,1570.02,1526.616550646504
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,3,4,1.76,1292.29,1173.8705649011717
+aracaju (se),sao paulo (sp),premium,1.02,392.76,cloudfy,3,4,1.02,630.34,608.4535116683039
+rio de janeiro (rj),campo grande (ms),economic,2.09,806.48,cloudfy,3,4,2.09,882.99,990.0922764479659
+salvador (bh),aracaju (se),firstclass,2.16,830.86,cloudfy,3,5,2.16,1531.92,1454.181547352427
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,3,5,1.69,1581.8,1475.4567329642464
+sao paulo (sp),recife (pe),premium,1.26,486.52,rainbow,3,5,1.26,1145.72,1079.4539345334756
+aracaju (se),recife (pe),premium,1.44,555.74,cloudfy,3,6,1.44,835.21,896.0178676207207
+aracaju (se),natal (rn),firstclass,0.46,176.33,cloudfy,3,6,0.46,598.61,649.6675512638934
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,3,6,1.76,1354.53,1337.9386606431221
+natal (rn),recife (pe),firstclass,0.58,222.67,rainbow,3,6,0.58,806.91,823.5593652693476
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,3,6,1.66,1569.65,1508.3471558200786
+natal (rn),aracaju (se),firstclass,0.46,176.33,cloudfy,3,6,0.46,576.66,808.1497119615183
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,cloudfy,3,6,1.55,1446.4,1263.4238849094995
+campo grande (ms),aracaju (se),premium,1.69,650.1,rainbow,3,6,1.69,1146.95,1217.2327740364362
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,3,6,1.44,684.88,701.1562967390811
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,3,0,2.1,1468.03,1409.8864922200664
+rio de janeiro (rj),campo grande (ms),economic,2.09,806.48,rainbow,3,0,2.09,849.52,990.5239544802363
+rio de janeiro (rj),campo grande (ms),firstclass,2.09,806.48,flyingdrops,3,0,2.09,1566.26,1514.0061853794118
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,flyingdrops,3,0,0.44,668.19,876.6098287319459
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,3,0,1.76,1070.54,1080.305104268134
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,3,0,1.69,1376.09,1290.0103160420072
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,rainbow,3,0,1.55,1386.46,1264.0242493854334
+rio de janeiro (rj),recife (pe),premium,2.3,885.57,cloudfy,3,0,2.3,1333.52,1369.8781495395442
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,3,0,2.44,1321.52,1297.8465883225572
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,3,0,1.76,1371.83,1338.5390251190565
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,3,0,1.02,647.9,738.0227722409232
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,3,0,1.49,1310.32,1320.9447538879567
+aracaju (se),brasilia (df),firstclass,1.11,425.98,cloudfy,3,0,1.11,957.68,971.9772271777574
+campo grande (ms),rio de janeiro (rj),economic,2.09,806.48,rainbow,3,3,2.09,946.55,1042.6282254384955
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,3,3,1.36,615.26,738.4430921763884
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,3,3,1.02,756.3,874.5529049512793
+campo grande (ms),natal (rn),firstclass,0.65,250.68,rainbow,3,3,0.65,778.01,891.6262553985509
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,3,3,2.44,1692.64,1566.4426157775488
+campo grande (ms),natal (rn),economic,0.65,250.68,rainbow,3,3,0.65,411.05,375.8308485646528
+recife (pe),brasilia (df),premium,0.63,242.21,rainbow,3,3,0.63,638.63,459.3535168995424
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,rainbow,3,3,1.21,317.08,254.72723086456764
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,3,3,1.11,706.36,713.5845818062835
+aracaju (se),natal (rn),economic,0.46,176.33,rainbow,3,3,0.46,380.32,134.21947924043428
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,3,3,0.44,381.83,159.82476188557018
+brasilia (df),sao paulo (sp),premium,0.67,257.81,rainbow,3,3,0.67,750.0,643.6325441809926
+aracaju (se),rio de janeiro (rj),firstclass,1.55,597.61,cloudfy,3,3,1.55,1183.57,1122.3849529571298
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,rainbow,3,3,1.26,1573.5,1337.8565418280614
+brasilia (df),sao paulo (sp),economic,0.67,257.81,rainbow,3,3,0.67,533.8,386.0710581980169
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,3,3,1.39,991.22,1000.295596829693
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,3,3,1.84,780.68,743.1996351872575
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,3,3,1.21,624.89,778.209461763743
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,3,3,1.66,1097.17,1123.2006423043413
+recife (pe),salvador (bh),firstclass,2.05,788.55,cloudfy,3,3,2.05,1484.94,1516.3590327684174
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,3,3,2.44,1367.88,1300.5218708613488
+florianopolis (sc),brasilia (df),economic,1.66,637.56,rainbow,3,3,1.66,555.01,599.7184114051661
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,3,3,2.1,1574.28,1417.414591764792
+aracaju (se),sao paulo (sp),economic,1.02,392.76,cloudfy,3,3,1.02,410.79,350.9763689071601
+campo grande (ms),sao paulo (sp),firstclass,0.44,168.22,flyingdrops,3,3,0.44,684.65,683.3069927847455
+recife (pe),campo grande (ms),premium,1.39,535.4,rainbow,3,3,1.39,832.77,869.34624968941
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,3,3,1.46,693.51,949.5314667434675
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,rainbow,3,4,1.46,1718.28,1445.5584934844023
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,cloudfy,3,4,1.26,1533.42,1337.6778934612857
+natal (rn),aracaju (se),premium,0.46,176.33,rainbow,3,4,0.46,479.37,550.1787826992031
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,3,4,1.76,674.52,650.2940288570526
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,3,4,1.84,1165.99,1268.3826297955816
+brasilia (df),florianopolis (sc),economic,1.66,637.56,cloudfy,3,4,1.66,884.94,984.939306219623
+sao paulo (sp),aracaju (se),premium,1.02,392.76,rainbow,3,4,1.02,962.54,995.2468853365718
+rio de janeiro (rj),natal (rn),economic,1.55,595.03,rainbow,3,4,1.55,670.29,736.045459511661
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,flyingdrops,3,4,0.44,668.19,876.272455844619
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,3,4,1.49,1341.21,1312.9205569353526
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,3,5,1.49,1031.59,1054.5079877176545
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,3,5,1.76,1074.75,1079.7890830140316
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,3,5,1.66,885.37,857.0169057995344
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,3,5,1.11,472.72,455.76010423470075
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,3,5,1.76,1070.54,1079.8833881589753
+sao paulo (sp),recife (pe),economic,1.26,486.52,cloudfy,3,5,1.26,829.91,821.7981434055561
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,3,5,2.1,1515.79,1518.7827724054064
+campo grande (ms),natal (rn),firstclass,0.65,250.68,cloudfy,3,5,0.65,732.89,891.3632638099438
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,3,6,0.72,661.32,633.333152737878
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,3,0,1.49,1341.21,1313.2579298226797
+natal (rn),campo grande (ms),economic,0.65,250.68,rainbow,3,0,0.65,470.16,340.916776686154
+natal (rn),brasilia (df),premium,1.43,550.69,cloudfy,3,0,1.43,898.46,1045.8277862228392
+rio de janeiro (rj),sao paulo (sp),premium,0.86,331.89,rainbow,3,0,0.86,612.87,518.3008698403655
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,3,0,1.46,1684.14,1445.801561226786
+aracaju (se),brasilia (df),premium,1.11,425.98,rainbow,3,0,1.11,706.36,713.8376114717787
+brasilia (df),campo grande (ms),premium,0.72,277.7,rainbow,3,0,0.72,851.15,716.3658018589268
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,3,0,1.49,1446.34,1313.1636246777357
+brasilia (df),sao paulo (sp),premium,0.67,257.81,rainbow,3,0,0.67,750.0,643.8855738464878
+campo grande (ms),rio de janeiro (rj),economic,2.09,806.48,rainbow,3,3,2.09,946.55,1042.6282254384955
+brasilia (df),salvador (bh),economic,1.76,676.56,cloudfy,3,3,1.76,958.15,1057.705227450606
+aracaju (se),salvador (bh),economic,2.16,830.86,rainbow,3,3,2.16,943.36,1050.8011354609787
+aracaju (se),recife (pe),economic,1.44,555.74,rainbow,3,3,1.44,602.49,638.8037164481841
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,3,3,1.84,780.68,743.1996351872575
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,3,3,1.69,1473.41,1483.4065486181312
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,3,3,2.1,1574.28,1417.414591764792
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,3,3,1.84,1114.55,1000.7611211702332
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,3,3,1.02,756.3,874.5529049512793
+brasilia (df),aracaju (se),premium,1.11,425.98,rainbow,3,3,1.11,965.62,989.666128693017
+campo grande (ms),natal (rn),premium,0.65,250.68,rainbow,3,3,0.65,541.59,633.3923345476285
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,3,3,1.69,1116.83,1023.8365414603123
+recife (pe),rio de janeiro (rj),premium,2.3,885.57,cloudfy,3,3,2.3,1270.03,1291.0330733575206
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,3,3,0.67,742.94,1012.3896815235618
+sao paulo (sp),salvador (bh),economic,1.04,401.66,cloudfy,3,3,1.04,793.27,714.3951038944954
+recife (pe),campo grande (ms),firstclass,1.39,535.4,rainbow,3,3,1.39,1069.12,1127.5801705403323
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,3,3,1.11,472.72,455.9287906783642
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,3,3,1.66,814.55,857.2798973881416
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,3,3,1.69,1021.53,1023.7422363153686
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,3,3,1.76,1300.6,1166.1737789127824
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,3,3,1.66,1127.36,1115.4195130941202
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,3,3,1.44,1119.47,1154.599123282082
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,3,3,1.84,1114.55,1000.7611211702332
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,3,3,2.1,869.13,1003.156052015172
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,3,3,1.21,624.89,778.209461763743
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,3,3,2.44,1311.38,1300.4275657164053
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,3,3,0.46,427.25,391.7809652234099
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,3,3,1.66,1097.17,1123.2006423043413
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,3,3,1.76,1292.29,1173.9549081230034
+aracaju (se),brasilia (df),firstclass,1.11,425.98,rainbow,3,4,1.11,959.29,971.7341594353743
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,3,4,0.72,583.6,458.3726378436805
+salvador (bh),aracaju (se),firstclass,2.16,830.86,cloudfy,3,4,2.16,1531.92,1454.2658905742592
+natal (rn),recife (pe),firstclass,0.58,222.67,flyingdrops,3,4,0.58,694.42,831.4148757782883
+rio de janeiro (rj),sao paulo (sp),premium,0.86,331.89,cloudfy,3,4,0.86,645.44,517.8691918080948
+rio de janeiro (rj),campo grande (ms),economic,2.09,806.48,rainbow,3,4,2.09,849.52,990.1865815929096
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,3,5,1.69,1473.41,1483.2378621744674
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,3,5,1.76,1371.83,1338.1173090098978
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,3,5,2.1,1582.1,1409.5590812558512
+brasilia (df),campo grande (ms),premium,0.72,277.7,rainbow,3,6,0.72,851.15,715.8597425279364
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,3,6,1.69,877.56,959.6712880534604
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,3,6,2.1,819.41,893.6793312001215
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,3,6,1.46,1684.14,1445.2955018957955
+aracaju (se),sao paulo (sp),economic,1.02,392.76,cloudfy,3,0,1.02,410.79,351.2293985726553
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,rainbow,3,0,2.1,1582.41,1519.298793659509
+aracaju (se),recife (pe),premium,1.44,555.74,cloudfy,3,0,1.44,835.21,896.5239269517111
+salvador (bh),brasilia (df),economic,1.76,676.56,cloudfy,3,0,1.76,587.85,669.7247068755254
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,3,3,2.1,1248.7,1151.4938468485925
+recife (pe),salvador (bh),firstclass,2.05,788.55,cloudfy,3,3,2.05,1484.94,1516.3590327684174
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,rainbow,3,3,1.36,1114.75,1254.2384990102864
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,3,3,1.66,885.37,857.1855922431979
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,rainbow,3,3,1.55,712.64,606.6838512681755
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,3,3,1.66,636.51,599.6241062602222
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,3,3,1.76,918.66,907.93985806186
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,cloudfy,3,3,2.44,1640.8,1558.6614865673278
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,3,3,1.76,1371.83,1338.285995453561
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,3,3,1.44,1088.87,1162.2859473473595
+aracaju (se),natal (rn),firstclass,0.46,176.33,flyingdrops,3,3,0.46,577.71,657.7017101396096
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,3,3,2.44,915.02,1042.9603848783734
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,3,3,1.84,1114.55,1000.7611211702332
+sao paulo (sp),rio de janeiro (rj),premium,0.86,331.89,cloudfy,3,3,0.86,846.03,763.3606419353858
+recife (pe),aracaju (se),firstclass,1.44,555.74,flyingdrops,3,3,1.44,1300.81,1224.9858624486956
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,3,3,1.84,1348.79,1266.6818660864328
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,3,3,2.1,879.1,893.838055720673
+recife (pe),rio de janeiro (rj),economic,2.3,885.57,rainbow,3,3,2.3,908.93,1033.5658925194884
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,3,3,1.66,885.37,857.1855922431979
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,3,3,1.76,1292.29,1173.9549081230034
+brasilia (df),recife (pe),premium,0.63,242.21,cloudfy,3,3,0.63,568.38,672.640843539996
+recife (pe),sao paulo (sp),economic,1.26,486.52,rainbow,3,3,1.26,545.95,498.06198157217545
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,rainbow,3,3,1.46,738.8,949.6257718884114
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,3,3,1.11,898.04,979.5053267224833
+aracaju (se),brasilia (df),premium,1.11,425.98,cloudfy,3,3,1.11,755.62,713.4902766613397
+natal (rn),brasilia (df),economic,1.43,550.69,rainbow,3,3,1.43,686.79,788.107575719312
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,4,4,1.76,1434.38,1345.6718866348901
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,4,4,1.76,695.3,650.1717443398798
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,4,4,1.49,1446.34,1312.6096621282923
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,4,4,2.1,1132.81,1260.5109102591432
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,4,4,1.76,1434.38,1345.6718866348901
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,4,4,1.76,803.39,822.1896557357148
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,4,4,1.66,1127.36,1115.1185802101718
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,4,4,1.11,898.04,979.2043938385349
+salvador (bh),campo grande (ms),economic,1.36,522.34,rainbow,4,4,1.36,494.29,432.3408936969787
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,4,4,1.49,1031.59,1054.3757412773698
+sao paulo (sp),aracaju (se),economic,1.02,392.76,cloudfy,4,4,1.02,722.74,737.3745045465357
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,4,4,1.76,1175.62,1165.967151173778
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,4,4,1.49,764.53,796.9085604393377
+aracaju (se),campo grande (ms),economic,1.69,650.1,rainbow,4,4,1.69,743.54,765.9741225933883
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,4,5,2.1,1515.79,1518.56618274329
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,4,5,1.26,883.63,1013.3778071553496
+rio de janeiro (rj),brasilia (df),economic,0.48,183.37,cloudfy,4,5,0.48,369.57,102.01163039177676
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,cloudfy,4,5,1.21,875.65,1020.6530143601057
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,4,5,1.26,883.63,1013.3778071553496
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,4,5,1.46,1367.6,1187.0236397495314
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,4,5,1.46,1684.14,1445.1632554555104
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,4,5,1.84,1212.58,1268.1760020565766
+salvador (bh),campo grande (ms),premium,1.36,522.34,cloudfy,4,6,1.36,684.85,689.6393880913471
+campo grande (ms),natal (rn),firstclass,0.65,250.68,rainbow,4,6,0.65,778.01,891.156636070939
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,4,6,0.63,804.24,930.4051450633065
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,flyingdrops,4,6,1.84,1540.6,1534.012403750945
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,4,6,1.02,647.9,737.300123247816
+rio de janeiro (rj),sao paulo (sp),firstclass,0.86,331.89,rainbow,4,6,0.86,714.13,775.812141698181
+natal (rn),campo grande (ms),firstclass,0.65,250.68,rainbow,4,6,0.65,855.82,855.9895345269449
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,4,6,1.69,1473.41,1482.936929290519
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,4,6,2.1,1468.03,1409.1638432269592
+brasilia (df),natal (rn),premium,1.43,550.69,rainbow,4,6,1.43,1107.52,1162.7988285637844
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,4,0,1.76,761.2,822.432723478098
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,4,0,1.76,803.39,822.5270286230417
+rio de janeiro (rj),recife (pe),economic,2.3,885.57,rainbow,4,0,2.3,932.59,1112.1943790393957
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,4,3,2.1,1468.03,1409.4168728924542
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,4,3,0.44,595.09,868.4533853390567
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,4,3,1.44,1088.87,1162.0693576852427
+aracaju (se),brasilia (df),firstclass,1.11,425.98,rainbow,4,3,1.11,959.29,971.6019129950893
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,rainbow,4,3,0.72,870.91,891.6978187371227
+sao paulo (sp),recife (pe),economic,1.26,486.52,rainbow,4,3,1.26,827.12,821.8445453320467
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,4,3,1.21,481.42,512.0721271854266
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,flyingdrops,4,3,0.48,539.39,760.5464381484279
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,4,3,1.76,1292.29,1173.7383184608866
+brasilia (df),rio de janeiro (rj),premium,0.48,183.37,cloudfy,4,3,0.48,457.95,494.5313880872844
+aracaju (se),brasilia (df),premium,1.11,425.98,cloudfy,4,3,1.11,755.62,713.2736869992231
+aracaju (se),natal (rn),premium,0.46,176.33,cloudfy,4,3,0.46,535.95,391.4700704163494
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,4,3,1.69,1473.41,1483.1899589560144
+campo grande (ms),natal (rn),firstclass,0.65,250.68,rainbow,4,3,0.65,778.01,891.4096657364342
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,4,3,1.46,762.89,957.0960062915718
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,rainbow,4,3,1.46,427.0,433.61377539239646
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,4,3,1.76,674.52,650.1617824167677
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,cloudfy,4,3,1.55,1007.72,863.9344424440907
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,4,3,1.49,857.32,1009.8210519589496
+brasilia (df),aracaju (se),firstclass,1.11,425.98,cloudfy,4,3,1.11,1260.1,1247.5891547368788
+campo grande (ms),aracaju (se),economic,1.69,650.1,cloudfy,4,3,1.69,886.9,959.6134229118951
+aracaju (se),brasilia (df),firstclass,1.11,425.98,rainbow,4,3,1.11,959.29,971.6019129950893
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,4,3,1.66,885.37,856.9690025810811
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,4,3,1.49,697.65,751.4928259630834
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,4,4,0.63,573.61,458.95827887065013
+brasilia (df),sao paulo (sp),economic,0.67,257.81,cloudfy,4,4,0.67,538.95,385.6758201691247
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,4,4,1.84,1212.58,1268.2603452784087
+natal (rn),aracaju (se),premium,0.46,176.33,rainbow,4,4,0.46,479.37,549.9621930370864
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,4,4,2.44,1321.52,1297.2926257731137
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,4,4,1.69,1376.09,1289.4563534925637
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,rainbow,4,5,1.84,1385.49,1258.6097659153752
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,flyingdrops,4,5,1.21,961.99,1028.4341435703268
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,4,5,1.66,1087.18,1115.1285421332836
+recife (pe),brasilia (df),firstclass,0.63,242.21,cloudfy,4,5,0.63,709.25,717.1078564997409
+rio de janeiro (rj),recife (pe),economic,2.3,885.57,rainbow,4,5,2.3,932.59,1111.772662930237
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,4,5,1.76,1070.54,1079.6667984968585
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,4,5,1.76,1175.62,1165.8828079519458
+sao paulo (sp),aracaju (se),premium,1.02,392.76,cloudfy,4,5,1.02,906.59,994.8516473076796
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,4,6,2.44,1616.44,1563.1389893905935
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,4,6,2.1,819.41,893.4627415380049
+rio de janeiro (rj),florianopolis (sc),premium,1.21,466.3,cloudfy,4,6,1.21,708.27,762.3347502873513
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,4,0,1.66,1222.24,1242.7158805727527
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,4,0,1.46,1684.14,1445.584971564669
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,flyingdrops,4,0,1.21,961.99,1028.8558596794855
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,4,0,1.69,877.56,959.9607577223342
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,4,0,1.39,793.15,869.2883845478447
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,4,0,1.39,1110.76,1127.5223053987672
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,4,0,1.66,889.07,985.1543945897769
+natal (rn),aracaju (se),premium,0.46,176.33,rainbow,4,0,0.46,479.37,550.2995659244133
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,rainbow,4,0,2.44,1654.09,1555.9582246563068
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,rainbow,4,3,2.09,1328.88,1299.9731217593544
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,4,3,2.44,1692.64,1566.226026115432
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,4,3,1.69,1021.53,1023.5256466532518
+aracaju (se),salvador (bh),premium,2.16,830.86,rainbow,4,3,2.16,1289.05,1308.1460317818378
+aracaju (se),rio de janeiro (rj),firstclass,1.55,597.61,cloudfy,4,3,1.55,1183.57,1122.168363295013
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,cloudfy,4,3,1.36,1149.38,1253.927604203226
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,4,3,1.76,695.3,650.2560875617114
+recife (pe),rio de janeiro (rj),economic,2.3,885.57,cloudfy,4,3,2.3,910.7,1033.2549977124281
+brasilia (df),recife (pe),firstclass,0.63,242.21,rainbow,4,3,0.63,772.21,930.7524798737455
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,4,3,1.21,585.77,770.2117428914053
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,4,3,1.66,1487.52,1500.6024666132362
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,4,3,2.44,915.02,1042.7437952162566
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,4,3,1.66,885.37,856.9690025810811
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,4,3,1.66,814.55,857.063307726025
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,4,3,1.76,918.66,907.7232683997432
+brasilia (df),salvador (bh),economic,1.76,676.56,cloudfy,4,3,1.76,958.15,1057.488637788489
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,4,3,1.55,717.04,606.3729564611151
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,4,4,2.44,1321.52,1297.2926257731137
+recife (pe),brasilia (df),firstclass,0.63,242.21,rainbow,4,4,0.63,721.93,717.2865048665165
+natal (rn),brasilia (df),premium,1.43,550.69,rainbow,4,5,1.43,919.89,1045.2837855965076
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,4,5,1.46,577.76,691.0065749317085
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,4,5,1.76,1371.83,1337.900719347781
+rio de janeiro (rj),campo grande (ms),premium,2.09,806.48,rainbow,4,5,2.09,1219.71,1247.4471346919363
+sao paulo (sp),natal (rn),premium,0.85,327.55,rainbow,4,5,0.85,701.29,893.604646006891
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,4,5,1.39,615.59,611.3994876006543
+sao paulo (sp),aracaju (se),economic,1.02,392.76,cloudfy,4,5,1.02,722.74,737.2901613247041
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,4,5,2.44,1616.44,1563.223332612425
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,4,5,1.84,1212.58,1268.1760020565766
+recife (pe),natal (rn),economic,0.58,222.67,rainbow,4,5,0.58,360.22,211.84946639887565
+recife (pe),aracaju (se),firstclass,1.44,555.74,flyingdrops,4,6,1.44,1300.81,1224.5162431210833
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,cloudfy,4,6,0.44,335.16,352.3106436947196
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,rainbow,4,6,0.44,438.74,609.966434822639
+rio de janeiro (rj),brasilia (df),premium,0.48,183.37,cloudfy,4,6,0.48,503.26,359.4887731529206
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,4,6,1.84,1165.99,1267.9973536898015
+rio de janeiro (rj),brasilia (df),premium,0.48,183.37,cloudfy,4,6,0.48,503.26,359.4887731529206
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,4,6,1.46,693.51,949.0618474158556
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,4,6,1.76,1074.75,1079.4881501300833
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,4,6,2.1,1248.7,1151.0242275209807
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,4,0,1.49,714.86,751.8401607735224
+salvador (bh),brasilia (df),premium,1.76,676.56,cloudfy,4,0,1.76,836.89,927.0696031963843
+salvador (bh),campo grande (ms),economic,1.36,522.34,rainbow,4,0,1.36,494.29,432.6782665843057
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,cloudfy,4,0,1.21,533.69,505.2793236353662
+salvador (bh),campo grande (ms),economic,1.36,522.34,cloudfy,4,0,1.36,534.41,432.5839614393619
+sao paulo (sp),natal (rn),economic,0.85,327.55,cloudfy,4,3,0.85,488.57,636.1175413226351
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,cloudfy,4,3,2.09,1363.27,1299.8788166144104
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,4,3,1.02,756.3,874.3363152891626
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,4,3,1.49,1030.13,1054.554389644145
+aracaju (se),salvador (bh),firstclass,2.16,830.86,flyingdrops,4,3,2.16,1714.75,1574.0667766980373
+florianopolis (sc),aracaju (se),premium,2.1,808.85,cloudfy,4,3,2.1,1149.53,1151.182952041532
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,4,3,1.11,898.04,979.2887370603665
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,4,3,1.46,577.76,691.1752613753721
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,4,3,0.72,583.6,458.24039140339545
+brasilia (df),aracaju (se),firstclass,1.11,425.98,cloudfy,4,3,1.11,1260.1,1247.5891547368788
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,4,3,1.84,1114.55,1000.5445315081165
+recife (pe),salvador (bh),premium,2.05,788.55,cloudfy,4,3,2.05,1242.65,1257.9085222553786
+aracaju (se),sao paulo (sp),premium,1.02,392.76,rainbow,4,3,1.02,588.14,608.4155703729627
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,4,3,0.44,381.83,159.60817222345347
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,4,3,1.49,1030.13,1054.554389644145
+aracaju (se),salvador (bh),firstclass,2.16,830.86,flyingdrops,4,3,2.16,1714.75,1574.0667766980373
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,4,3,2.44,915.02,1042.7437952162566
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,cloudfy,4,3,2.44,1640.8,1558.444896905211
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,4,3,1.21,469.92,511.97782204048275
+natal (rn),salvador (bh),firstclass,1.85,710.57,rainbow,4,3,1.85,1641.56,1543.4885617368068
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,4,3,1.69,1387.89,1281.8538726491179
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,4,3,2.1,869.13,1002.9394623530553
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,4,3,2.44,1311.38,1300.2109760542885
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,4,3,1.11,472.72,455.71220101624743
+sao paulo (sp),brasilia (df),premium,0.67,257.81,rainbow,4,3,0.67,586.06,754.0334761554664
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,4,3,1.49,1446.34,1312.694005350124
+campo grande (ms),salvador (bh),economic,1.36,522.34,cloudfy,4,3,1.36,621.36,738.1321973693279
+brasilia (df),sao paulo (sp),premium,0.67,257.81,cloudfy,4,3,0.67,698.1,643.321649373932
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,4,3,1.21,469.92,511.97782204048275
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,4,4,2.44,1616.44,1563.3076758342572
+recife (pe),campo grande (ms),economic,1.39,535.4,rainbow,4,4,1.39,615.59,611.483830822486
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,rainbow,4,4,0.44,441.34,417.0853149845974
+natal (rn),florianopolis (sc),economic,1.84,709.37,rainbow,4,4,1.84,884.4,1010.6988592954331
+sao paulo (sp),natal (rn),premium,0.85,327.55,cloudfy,4,4,0.85,719.91,893.5946840837788
+aracaju (se),recife (pe),firstclass,1.44,555.74,cloudfy,4,4,1.44,1124.11,1154.20388525319
+recife (pe),florianopolis (sc),premium,1.76,676.53,rainbow,4,4,1.76,1070.54,1079.7511417186906
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,4,4,1.84,1315.27,1258.5998039922633
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,4,4,1.66,889.07,984.81702170245
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,4,5,1.46,1666.23,1452.9443846657314
+natal (rn),aracaju (se),firstclass,0.46,176.33,cloudfy,4,5,0.46,576.66,808.0174655212334
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,4,5,1.46,1370.17,1186.929334604588
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,4,5,1.69,1545.78,1475.3344484470736
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,4,5,2.44,1616.44,1563.223332612425
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,4,5,2.44,1321.52,1297.2082825512816
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,4,5,1.55,1098.93,1005.1520227632355
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,4,5,2.44,1616.44,1563.223332612425
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,rainbow,4,5,1.55,1386.46,1263.385943614158
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,4,5,1.46,1684.14,1445.1632554555104
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,4,6,1.76,761.2,821.9266641471075
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,4,6,2.1,1499.93,1526.2629687316794
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,rainbow,4,6,0.67,824.31,1012.0143673408937
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,cloudfy,4,6,1.49,478.02,493.6783103146125
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,4,6,1.66,1487.52,1500.3494369477407
+salvador (bh),recife (pe),premium,2.05,788.55,cloudfy,4,6,2.05,1016.53,1082.8035741347048
+natal (rn),recife (pe),economic,0.58,222.67,rainbow,4,6,0.58,406.36,307.5473687733328
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,4,6,1.69,1473.41,1482.936929290519
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,rainbow,4,0,1.26,1573.5,1337.89298183144
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,4,0,2.1,869.13,1003.1924920185505
+sao paulo (sp),brasilia (df),premium,0.67,257.81,cloudfy,4,0,0.67,602.12,754.1922006760178
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,4,0,2.1,1515.79,1518.9878988524488
+natal (rn),campo grande (ms),firstclass,0.65,250.68,cloudfy,4,0,0.65,953.32,856.4012887129916
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,4,0,1.49,1310.32,1320.72816422584
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,4,0,1.46,947.95,929.7895647307708
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,4,0,1.76,1434.38,1346.0092595222172
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,cloudfy,4,0,0.44,563.0,868.612109859608
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,4,0,1.49,1310.32,1320.72816422584
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,4,0,2.44,1657.48,1555.8639195113628
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,4,0,1.76,803.39,822.5270286230417
+natal (rn),salvador (bh),firstclass,1.85,710.57,rainbow,4,3,1.85,1641.56,1543.4885617368068
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,4,3,1.66,885.37,856.9690025810811
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,4,3,1.76,695.3,650.2560875617114
+aracaju (se),recife (pe),premium,1.44,555.74,rainbow,4,3,1.44,875.41,896.148612769043
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,4,3,1.66,1087.18,1115.2972285769474
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,4,3,1.39,793.15,869.0353548823495
+brasilia (df),salvador (bh),firstclass,1.76,676.56,rainbow,4,3,1.76,1665.24,1573.3783497673312
+natal (rn),brasilia (df),economic,1.43,550.69,cloudfy,4,3,1.43,697.51,787.7966809122514
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,4,3,1.76,1354.53,1337.9751006465008
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,flyingdrops,4,3,2.09,1609.81,1565.893866675554
+natal (rn),sao paulo (sp),firstclass,0.85,327.55,cloudfy,4,3,0.85,1020.42,923.6960403308341
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,4,3,0.44,381.83,159.60817222345347
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,4,3,1.02,647.9,737.5531529133112
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,rainbow,4,3,0.48,586.04,752.8596140831506
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,4,3,1.21,481.42,512.0721271854266
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,cloudfy,4,3,1.02,1186.15,1253.2542546022655
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,cloudfy,4,3,1.36,1149.38,1253.927604203226
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,cloudfy,4,3,0.44,447.53,610.1251593431904
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,rainbow,4,3,0.44,441.34,417.1696582064291
+natal (rn),sao paulo (sp),economic,0.85,327.55,cloudfy,4,3,0.85,623.33,407.90063349693594
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,4,3,2.1,879.1,893.6214660585563
+florianopolis (sc),brasilia (df),economic,1.66,637.56,rainbow,4,3,1.66,555.01,599.5018217430493
+recife (pe),aracaju (se),premium,1.44,555.74,rainbow,4,3,1.44,932.22,958.8485278703789
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,4,3,1.84,780.68,742.9830455251408
+campo grande (ms),recife (pe),firstclass,1.39,535.4,cloudfy,4,4,1.39,1244.73,1258.1342796517229
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,cloudfy,4,4,0.72,1096.58,973.9514550154619
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,4,4,1.44,663.23,701.2026986655716
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,4,4,2.1,1515.79,1518.6505259651217
+rio de janeiro (rj),campo grande (ms),firstclass,2.09,806.48,flyingdrops,4,4,2.09,1566.26,1513.4522228299684
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,4,4,1.76,1013.4,907.7332303228554
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,4,5,2.1,1174.97,1260.3322618923676
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,4,5,1.66,889.07,984.7326784806181
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,rainbow,4,5,1.02,1159.84,1253.1798733035457
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,4,5,2.1,869.13,1002.7707759093918
+brasilia (df),aracaju (se),economic,1.11,425.98,rainbow,4,5,1.11,721.2,731.7193666042612
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,cloudfy,4,5,2.3,1664.01,1627.4737646191911
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,cloudfy,4,5,1.26,1533.42,1337.3769605773373
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,4,5,1.69,1581.8,1475.2401433021296
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,4,5,2.1,1174.97,1260.3322618923676
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,4,5,1.46,1370.17,1186.929334604588
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,5,6,1.66,889.07,984.4317455966698
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,5,6,1.84,1348.79,1265.9956570967042
+recife (pe),campo grande (ms),firstclass,1.39,535.4,rainbow,5,6,1.39,1069.12,1126.8939615506038
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,cloudfy,5,6,1.21,875.65,1020.3520814761572
+natal (rn),recife (pe),firstclass,0.58,222.67,cloudfy,5,6,0.58,744.11,823.0318808001704
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,5,6,1.49,857.32,1009.3514326313376
+aracaju (se),recife (pe),premium,1.44,555.74,cloudfy,5,6,1.44,835.21,895.5846882964872
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,5,0,1.11,654.88,731.8301879063594
+campo grande (ms),recife (pe),premium,1.39,535.4,cloudfy,5,0,1.39,959.91,1000.0211420260109
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,5,0,2.1,1582.1,1409.5476180407768
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,cloudfy,5,0,0.85,946.36,1151.9493881599115
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,5,0,1.84,1570.02,1526.5207442095975
+salvador (bh),aracaju (se),economic,2.16,830.86,cloudfy,5,0,2.16,811.73,938.3746773034544
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,5,0,1.66,814.55,857.0997477294035
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,5,0,1.66,889.07,984.9378049276602
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,5,3,1.21,624.89,777.7762824395096
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,5,3,1.21,624.89,777.7762824395096
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,5,3,1.49,697.65,751.2762363009666
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,5,3,1.44,1119.47,1154.1659439578489
+campo grande (ms),natal (rn),economic,0.65,250.68,cloudfy,5,3,0.65,467.6,375.30336409547556
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,5,3,1.76,1175.62,1165.8349047334927
+aracaju (se),salvador (bh),firstclass,2.16,830.86,cloudfy,5,3,2.16,1684.05,1566.0690578256995
+aracaju (se),natal (rn),premium,0.46,176.33,cloudfy,5,3,0.46,535.95,391.25348075423267
+campo grande (ms),natal (rn),economic,0.65,250.68,rainbow,5,3,0.65,411.05,375.39766924041936
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,5,3,0.67,742.94,1011.9565021993284
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,5,3,2.44,1311.38,1299.9943863921717
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,5,3,1.02,647.9,737.3365632511945
+brasilia (df),salvador (bh),premium,1.76,676.56,rainbow,5,3,1.76,1268.97,1314.927839254292
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,cloudfy,5,3,1.69,1389.37,1281.5429778420576
+aracaju (se),natal (rn),firstclass,0.46,176.33,flyingdrops,5,3,0.46,577.71,657.2685308153762
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,flyingdrops,5,3,2.09,1609.81,1565.6772770134376
+florianopolis (sc),aracaju (se),premium,2.1,808.85,cloudfy,5,3,2.1,1149.53,1150.9663623794154
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,5,3,1.39,1262.23,1265.7831624216592
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,5,3,1.76,1013.4,907.6009838825704
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,5,4,1.76,1074.75,1079.4402469116299
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,cloudfy,5,4,1.36,904.66,947.8254057238163
+brasilia (df),aracaju (se),premium,1.11,425.98,rainbow,5,4,1.11,965.62,989.1486061469517
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,5,4,1.46,908.17,929.3299073262709
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,5,4,1.69,1387.89,1281.5529397651699
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,5,4,1.84,873.07,1010.3879644883726
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,5,4,1.49,1310.32,1320.1742016763965
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,5,5,1.11,472.72,455.32692491046726
+sao paulo (sp),recife (pe),economic,1.26,486.52,rainbow,5,5,1.26,827.12,821.4592692262664
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,5,5,2.1,852.18,1002.6484913922188
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,5,6,2.1,819.41,893.2461518758881
+recife (pe),aracaju (se),firstclass,1.44,555.74,flyingdrops,5,6,1.44,1300.81,1224.299653458967
+salvador (bh),recife (pe),firstclass,2.05,788.55,cloudfy,5,6,2.05,1440.02,1340.8209053235105
+recife (pe),campo grande (ms),firstclass,1.39,535.4,flyingdrops,5,6,1.39,1038.95,1134.5807856158813
+aracaju (se),sao paulo (sp),economic,1.02,392.76,rainbow,5,6,1.02,446.73,350.3844650623753
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,cloudfy,5,6,0.85,946.36,1151.443328828921
+aracaju (se),brasilia (df),firstclass,1.11,425.98,flyingdrops,5,6,1.11,898.04,978.8191177327546
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,cloudfy,5,6,0.72,1096.58,973.5661789096815
+salvador (bh),brasilia (df),firstclass,1.76,676.56,cloudfy,5,6,1.76,1032.4,1184.5808750541996
+sao paulo (sp),recife (pe),premium,1.26,486.52,rainbow,5,6,1.26,1145.72,1078.9364119874103
+natal (rn),recife (pe),premium,0.58,222.67,cloudfy,5,0,0.58,563.23,565.3040192802383
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,cloudfy,5,0,0.44,447.53,610.1615993465689
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,5,0,1.84,873.07,1010.7253373756995
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,5,0,1.44,684.88,701.229176745838
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,5,0,2.1,1574.28,1417.2344421060538
+natal (rn),recife (pe),premium,0.58,222.67,cloudfy,5,0,0.58,563.23,565.3040192802383
+recife (pe),sao paulo (sp),economic,1.26,486.52,cloudfy,5,0,1.26,513.06,497.7875267684934
+campo grande (ms),natal (rn),economic,0.65,250.68,rainbow,5,0,0.65,411.05,375.65069890591457
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,5,3,2.44,915.02,1042.52720555414
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,5,3,2.44,1367.88,1300.0886915371157
+aracaju (se),campo grande (ms),premium,1.69,650.1,cloudfy,5,3,1.69,1021.53,1023.3090569911351
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,5,3,0.63,804.24,930.441585066685
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,5,3,2.1,879.1,893.4048763964396
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,5,3,1.39,991.22,999.8624175054595
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,5,3,1.76,1013.4,907.6009838825704
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,rainbow,5,3,1.21,317.08,254.2940515403342
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,5,3,1.66,1487.52,1500.3858769511194
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,5,3,1.76,1434.38,1345.539640194605
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,5,3,1.66,885.37,856.7524129189645
+recife (pe),rio de janeiro (rj),premium,2.3,885.57,rainbow,5,3,2.3,1351.89,1290.694199178231
+aracaju (se),natal (rn),firstclass,0.46,176.33,rainbow,5,3,0.46,549.96,649.5817067500989
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,5,3,2.1,1574.28,1416.9814124405589
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,5,3,1.84,1165.99,1268.03379369318
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,5,3,1.46,1684.14,1445.1153522370569
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,5,3,2.1,1468.03,1409.2002832303378
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,5,3,1.49,1446.34,1312.477415688007
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,cloudfy,5,3,1.36,1149.38,1253.7110145411093
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,5,3,1.46,1367.6,1186.9757365310784
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,5,3,1.21,481.42,511.8555375233098
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,5,3,1.39,1262.23,1265.7831624216592
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,5,3,1.21,469.92,511.761232378366
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,5,3,1.36,615.26,738.009912852155
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,5,3,2.44,1311.38,1299.9943863921717
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,5,3,1.02,756.3,874.1197256270459
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,cloudfy,5,4,1.26,1533.42,1337.2447141370521
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,5,4,0.44,595.09,868.1524524551083
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,5,4,1.39,793.15,868.734421998401
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,5,4,1.69,1581.8,1475.107896861845
+sao paulo (sp),brasilia (df),premium,0.67,257.81,rainbow,5,4,0.67,586.06,753.7325432715179
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,5,5,1.66,1576.97,1500.3114956523996
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,5,5,0.63,432.1,414.47749178912346
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,5,5,0.44,595.09,868.0681092332765
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,5,5,1.49,1030.13,1054.1691135383649
+salvador (bh),aracaju (se),economic,2.16,830.86,cloudfy,5,6,2.16,811.73,937.868617972464
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,5,6,1.46,1666.23,1452.643451781783
+sao paulo (sp),brasilia (df),economic,0.67,257.81,cloudfy,5,6,0.67,389.47,495.9080656999351
+rio de janeiro (rj),natal (rn),firstclass,1.55,595.03,rainbow,5,6,1.55,1194.15,1251.239000577662
+aracaju (se),natal (rn),firstclass,0.46,176.33,cloudfy,5,6,0.46,598.61,649.2343719396599
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,5,0,1.66,1487.52,1500.6389066166143
+salvador (bh),campo grande (ms),premium,1.36,522.34,cloudfy,5,0,1.36,684.85,689.9288577602207
+natal (rn),florianopolis (sc),economic,1.84,709.37,rainbow,5,0,1.84,884.4,1010.8196425206432
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,5,0,1.49,808.63,796.9350385196042
+brasilia (df),aracaju (se),firstclass,1.11,425.98,rainbow,5,0,1.11,1214.82,1247.7198998852014
+campo grande (ms),recife (pe),premium,1.39,535.4,rainbow,5,0,1.39,991.22,1000.1154471709547
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,cloudfy,5,0,0.72,949.99,891.6399535955575
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,5,0,1.76,918.66,907.7597084031219
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,5,0,1.76,1074.75,1079.777619798957
+campo grande (ms),aracaju (se),premium,1.69,650.1,cloudfy,5,3,1.69,1215.45,1216.958319232754
+aracaju (se),brasilia (df),economic,1.11,425.98,rainbow,5,3,1.11,548.62,455.58991649907455
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,5,3,2.1,1582.1,1409.2945883752814
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,flyingdrops,5,3,1.26,954.78,1021.1110331471174
+campo grande (ms),natal (rn),firstclass,0.65,250.68,rainbow,5,3,0.65,778.01,891.1930760743174
+brasilia (df),florianopolis (sc),premium,1.66,637.56,cloudfy,5,3,1.66,1189.32,1242.151956100197
+recife (pe),sao paulo (sp),economic,1.26,486.52,cloudfy,5,3,1.26,513.06,497.5344971029982
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,5,3,1.76,761.2,821.963104150486
+campo grande (ms),aracaju (se),economic,1.69,650.1,cloudfy,5,3,1.69,886.9,959.3968332497784
+brasilia (df),salvador (bh),firstclass,1.76,676.56,rainbow,5,3,1.76,1665.24,1573.1617601052144
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,5,3,2.1,819.41,893.4991815413833
+recife (pe),natal (rn),premium,0.58,222.67,cloudfy,5,3,0.58,474.6,469.26874401845424
+recife (pe),sao paulo (sp),economic,1.26,486.52,cloudfy,5,3,1.26,513.06,497.5344971029982
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,5,3,1.84,1348.79,1266.2486867621997
+campo grande (ms),brasilia (df),economic,0.72,277.7,cloudfy,5,3,0.72,506.56,375.5915170961642
+campo grande (ms),rio de janeiro (rj),economic,2.09,806.48,rainbow,5,3,2.09,946.55,1042.195046114262
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,5,3,1.76,1300.6,1165.740599588549
+campo grande (ms),natal (rn),premium,0.65,250.68,cloudfy,5,3,0.65,652.47,632.8648500784511
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,5,3,2.1,1248.7,1151.060667524359
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,5,3,2.1,852.18,1002.8171778358824
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,5,3,0.72,847.83,899.1680531402834
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,5,3,1.66,1097.17,1122.7674629801081
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,5,3,2.44,1311.38,1299.9943863921717
+natal (rn),sao paulo (sp),premium,0.85,327.55,rainbow,5,3,0.85,879.87,665.3398349627386
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,5,3,0.72,661.32,633.1530030791398
+aracaju (se),recife (pe),firstclass,1.44,555.74,cloudfy,5,3,1.44,1124.11,1154.071638812905
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,5,4,0.46,361.68,292.08981224705025
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,rainbow,5,4,1.49,714.86,751.2861982240788
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,flyingdrops,5,4,1.26,1464.89,1345.0258433472736
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,cloudfy,5,4,1.55,1091.21,1004.9254711780069
+brasilia (df),florianopolis (sc),economic,1.66,637.56,rainbow,5,4,1.66,889.07,984.6004320403333
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,rainbow,5,4,0.44,367.22,352.3570456212102
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,5,4,0.65,979.56,863.628455373769
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,5,4,2.44,1657.48,1555.3099569619194
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,rainbow,5,4,2.3,1617.81,1627.4358233238504
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,5,5,1.02,1269.73,1260.6501077067064
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,5,5,1.84,1212.58,1267.9594123944603
+brasilia (df),recife (pe),economic,0.63,242.21,rainbow,5,5,0.63,421.2,414.57179693406727
+natal (rn),recife (pe),premium,0.58,222.67,cloudfy,5,5,0.58,563.23,564.8823031710797
+natal (rn),campo grande (ms),economic,0.65,250.68,rainbow,5,5,0.65,470.16,340.06188125276185
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,flyingdrops,5,5,1.55,1381.55,1270.8561780173186
+natal (rn),aracaju (se),premium,0.46,176.33,cloudfy,5,6,0.46,451.41,549.4826117863624
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,5,6,2.1,1248.7,1150.807637858864
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,5,6,1.66,1487.52,1500.132847285624
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,5,6,0.63,432.1,414.3931485672917
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,5,6,2.1,879.1,893.1518467309444
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,5,0,0.63,573.61,459.07906209586037
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,5,0,2.44,899.6,1039.9462281602919
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,5,0,1.66,636.51,599.4439566014839
+aracaju (se),salvador (bh),premium,2.16,830.86,rainbow,5,3,2.16,1289.05,1307.929442119721
+campo grande (ms),recife (pe),premium,1.39,535.4,cloudfy,5,3,1.39,959.91,999.7681123605157
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,5,3,1.69,750.92,765.7475710081594
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,cloudfy,5,3,0.67,742.94,1011.9565021993284
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,5,3,2.44,1367.88,1300.0886915371157
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,5,3,1.21,469.92,511.761232378366
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,cloudfy,5,3,0.44,536.98,416.85876339936857
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,5,3,0.58,488.73,469.36304916339805
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,5,3,1.69,1387.89,1281.6372829870015
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,5,3,1.49,1446.34,1312.477415688007
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,5,3,0.46,427.25,391.3477858991764
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,5,3,0.46,427.25,391.3477858991764
+campo grande (ms),sao paulo (sp),premium,0.44,168.22,rainbow,5,3,0.44,441.34,416.9530685443124
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,5,3,1.36,615.26,738.009912852155
+brasilia (df),aracaju (se),firstclass,1.11,425.98,flyingdrops,5,3,1.11,1287.52,1255.1536942849834
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,cloudfy,5,3,1.26,1533.42,1337.3290573588843
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,5,3,0.63,804.24,930.441585066685
+aracaju (se),brasilia (df),economic,1.11,425.98,rainbow,5,3,1.11,548.62,455.58991649907455
+brasilia (df),rio de janeiro (rj),economic,0.48,183.37,cloudfy,5,3,0.48,344.26,236.75331244219208
+recife (pe),natal (rn),firstclass,0.58,222.67,cloudfy,5,3,0.58,669.83,727.5026648693766
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,5,3,1.76,918.66,907.5066787376267
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,5,3,2.44,1311.38,1299.9943863921717
+natal (rn),florianopolis (sc),premium,1.84,709.37,rainbow,5,3,1.84,1212.58,1268.1280988381236
+campo grande (ms),recife (pe),premium,1.39,535.4,cloudfy,5,3,1.39,959.91,999.7681123605157
+florianopolis (sc),salvador (bh),economic,2.44,937.77,cloudfy,5,3,2.44,898.67,1042.432900409196
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,5,4,1.02,1269.73,1260.734450928538
+natal (rn),florianopolis (sc),premium,1.84,709.37,cloudfy,5,4,1.84,1165.99,1267.9494504713484
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,5,4,2.44,1616.44,1563.0910861721404
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,5,5,2.44,899.6,1039.5245120511331
+salvador (bh),aracaju (se),premium,2.16,830.86,rainbow,5,5,2.16,1247.02,1195.608752322215
+brasilia (df),sao paulo (sp),economic,0.67,257.81,rainbow,5,5,0.67,533.8,385.46919243011996
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,5,5,2.1,1248.7,1150.8919810806956
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,5,5,2.44,899.6,1039.5245120511331
+natal (rn),brasilia (df),economic,1.43,550.69,cloudfy,5,0,1.43,697.51,787.8331209156299
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,5,0,1.76,1354.53,1338.0115406498794
+florianopolis (sc),brasilia (df),premium,1.66,637.56,rainbow,5,0,1.66,814.55,857.0997477294035
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,cloudfy,5,0,1.21,533.69,505.06273397324946
+sao paulo (sp),recife (pe),economic,1.26,486.52,rainbow,5,0,1.26,827.12,821.8809853354252
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,5,0,1.49,857.32,1009.857491962328
+natal (rn),aracaju (se),premium,0.46,176.33,cloudfy,5,0,0.46,451.41,549.9886711173529
+brasilia (df),sao paulo (sp),economic,0.67,257.81,rainbow,6,3,0.67,533.8,385.4212892116667
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,6,3,0.72,583.6,457.807212079162
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,6,3,2.44,1311.38,1299.7777967300553
+recife (pe),brasilia (df),firstclass,0.63,242.21,cloudfy,6,3,0.63,709.25,716.8433636191709
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,6,3,0.72,583.6,457.807212079162
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,6,3,1.46,762.89,956.6628269673384
+natal (rn),campo grande (ms),firstclass,0.65,250.68,cloudfy,6,3,0.65,953.32,855.7150797232629
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,6,3,1.21,481.42,511.63894786119306
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,6,3,1.69,750.92,765.5309813460427
+campo grande (ms),recife (pe),firstclass,1.39,535.4,cloudfy,6,3,1.39,1244.73,1257.7854435493214
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,6,3,1.76,1175.62,1165.618315071376
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,6,3,1.21,585.77,769.7785635671718
+brasilia (df),sao paulo (sp),premium,0.67,257.81,cloudfy,6,3,0.67,698.1,642.8884700496985
+recife (pe),salvador (bh),firstclass,2.05,788.55,flyingdrops,6,3,2.05,1596.61,1523.4903929922884
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,6,3,1.76,1292.29,1173.3051391366535
+brasilia (df),natal (rn),firstclass,1.43,550.69,rainbow,6,3,1.43,1434.91,1420.8525997559686
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,6,3,1.46,577.76,690.7420820511386
+aracaju (se),recife (pe),economic,1.44,555.74,rainbow,6,3,1.44,602.49,638.1539474618339
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,6,3,1.44,684.88,700.7595574182261
+sao paulo (sp),recife (pe),premium,1.26,486.52,cloudfy,6,4,1.26,1195.26,1078.7942036240133
+natal (rn),campo grande (ms),premium,0.65,250.68,rainbow,6,4,0.65,660.25,597.4911207954525
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,6,4,1.69,1473.41,1482.6724364099491
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,6,4,2.1,1132.81,1260.0777309349096
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,6,4,1.84,1570.02,1525.966781660154
+natal (rn),recife (pe),economic,0.58,222.67,cloudfy,6,5,0.58,429.77,307.10422752598737
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,flyingdrops,6,5,1.21,961.99,1028.0009642460932
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,cloudfy,6,5,0.72,1096.58,973.4339324693966
+campo grande (ms),brasilia (df),economic,0.72,277.7,cloudfy,6,5,0.72,506.56,375.206240990384
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,cloudfy,6,5,2.1,1468.03,1408.8150071245573
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,6,5,1.66,1569.65,1507.7817300555603
+brasilia (df),recife (pe),economic,0.63,242.21,rainbow,6,5,0.63,421.2,414.3552072719505
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,6,5,1.49,764.53,796.3910378932725
+brasilia (df),campo grande (ms),economic,0.72,277.7,rainbow,6,5,0.72,629.54,457.7328307804423
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,6,6,2.1,1515.79,1518.0486601972248
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,6,6,1.76,1434.38,1345.0700208669932
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,6,6,1.44,663.23,700.6008328976746
+natal (rn),brasilia (df),firstclass,1.43,550.69,rainbow,6,6,1.43,1286.63,1303.0001839013648
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,6,0,1.55,1098.93,1005.1405595481609
+salvador (bh),florianopolis (sc),premium,2.44,937.77,rainbow,6,0,2.44,1336.68,1297.2911244811507
+recife (pe),campo grande (ms),premium,1.39,535.4,rainbow,6,0,1.39,832.77,868.949510368555
+salvador (bh),aracaju (se),economic,2.16,830.86,rainbow,6,0,2.16,826.02,938.2523927862813
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,6,0,1.46,1684.14,1445.1517922404355
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,6,0,0.72,1009.71,981.6367777887764
+natal (rn),aracaju (se),economic,0.46,176.33,cloudfy,6,0,0.46,361.68,292.2105954722605
+campo grande (ms),brasilia (df),economic,0.72,277.7,cloudfy,6,3,0.72,506.56,375.37492743404744
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,cloudfy,6,3,2.09,1614.7,1557.6795581410997
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,cloudfy,6,3,1.55,1007.72,863.5012631198573
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,6,3,2.1,1132.81,1260.1620741567413
+recife (pe),campo grande (ms),firstclass,1.39,535.4,rainbow,6,3,1.39,1069.12,1126.9304015539824
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,6,3,1.49,857.32,1009.3878726347162
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,cloudfy,6,3,1.55,1007.72,863.5012631198573
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,6,3,1.21,624.89,777.5596927773928
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,cloudfy,6,3,1.21,313.62,253.9831567332737
+florianopolis (sc),salvador (bh),economic,2.44,937.77,cloudfy,6,3,2.44,898.67,1042.2163107470794
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,6,3,1.76,1371.83,1337.6362264672111
+aracaju (se),sao paulo (sp),economic,1.02,392.76,rainbow,6,3,1.02,446.73,350.4209050657538
+recife (pe),brasilia (df),firstclass,0.63,242.21,rainbow,6,3,0.63,721.93,716.9376687641146
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,6,3,2.44,1367.88,1299.8721018749989
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,6,3,0.72,1009.71,981.3837481232812
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,6,3,2.1,1574.28,1416.764822778442
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,6,3,2.44,1367.88,1299.8721018749989
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,cloudfy,6,3,1.21,469.92,511.54464271624926
+florianopolis (sc),natal (rn),economic,1.84,709.37,cloudfy,6,3,1.84,726.95,742.4555610559636
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,rainbow,6,4,0.44,367.22,352.14045595909346
+rio de janeiro (rj),brasilia (df),premium,0.48,183.37,cloudfy,6,4,0.48,503.26,359.22428027235065
+sao paulo (sp),brasilia (df),economic,0.67,257.81,rainbow,6,4,0.67,393.84,495.9544676264256
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,6,4,1.46,908.17,929.1133176641541
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,6,4,1.76,1434.38,1345.238707310657
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,6,4,1.66,1222.24,1241.9453283611924
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,cloudfy,6,4,1.49,478.02,493.41381743404264
+recife (pe),natal (rn),firstclass,0.58,222.67,flyingdrops,6,4,0.58,633.71,734.9828611956492
+rio de janeiro (rj),brasilia (df),firstclass,0.48,183.37,rainbow,6,4,0.48,687.25,617.5525062682169
+natal (rn),aracaju (se),economic,0.46,176.33,rainbow,6,4,0.46,301.61,291.96752772987725
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,cloudfy,6,5,0.67,893.65,900.9537044569576
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,rainbow,6,5,0.44,367.22,352.0561127372617
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,6,5,1.84,873.07,1010.0870316044239
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,6,5,1.46,1370.17,1186.4961552803543
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,6,5,1.76,761.2,821.5778280447058
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,6,6,1.46,762.89,956.4097973018432
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,6,6,1.84,1348.79,1265.7790674345874
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,6,6,1.55,1098.93,1004.6345002171705
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,6,6,1.46,1367.6,1186.5061172034666
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,rainbow,6,6,1.26,980.83,1012.9545897542281
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,6,0,1.49,764.53,796.8127540024312
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,6,0,1.76,1175.62,1165.8713447368714
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,cloudfy,6,0,1.55,1091.21,1005.0462544032171
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,6,0,1.49,808.63,796.7184488574875
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,rainbow,6,0,2.3,1617.81,1627.5566065490602
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,6,0,1.66,1097.17,1122.8039029834863
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,6,0,1.46,1370.17,1186.917871389513
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,cloudfy,6,0,2.44,1657.48,1555.4307401871292
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,cloudfy,6,3,0.44,375.51,159.08068775427625
+recife (pe),salvador (bh),premium,2.05,788.55,cloudfy,6,3,2.05,1242.65,1257.475342931145
+brasilia (df),salvador (bh),premium,1.76,676.56,cloudfy,6,3,1.76,1346.6,1314.6169444472316
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,6,3,0.58,488.73,469.14645950128124
+sao paulo (sp),salvador (bh),economic,1.04,401.66,cloudfy,6,3,1.04,793.27,713.7453349081452
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,6,3,1.69,1387.89,1281.4206933248847
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,6,3,1.21,624.89,777.5596927773928
+recife (pe),salvador (bh),economic,2.05,788.55,rainbow,6,3,2.05,861.68,1000.008162093113
+brasilia (df),aracaju (se),premium,1.11,425.98,cloudfy,6,3,1.11,987.07,988.922054561723
+aracaju (se),natal (rn),premium,0.46,176.33,rainbow,6,3,0.46,427.25,391.1311962370597
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,6,3,1.49,857.32,1009.3878726347162
+aracaju (se),natal (rn),economic,0.46,176.33,cloudfy,6,3,0.46,332.1,133.47540510914033
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,6,3,1.76,918.66,907.2900890755099
+brasilia (df),salvador (bh),economic,1.76,676.56,cloudfy,6,3,1.76,958.15,1057.0554584642557
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,6,3,0.63,432.1,414.42958857067015
+campo grande (ms),salvador (bh),premium,1.36,522.34,rainbow,6,3,1.36,834.61,995.3548091730139
+natal (rn),florianopolis (sc),economic,1.84,709.37,rainbow,6,3,1.84,884.4,1010.3500231930312
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,6,3,2.44,1311.38,1299.7777967300553
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,cloudfy,6,3,1.46,554.87,690.6477769061947
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,6,3,1.76,761.2,821.7465144883694
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,flyingdrops,6,3,0.67,904.0,908.9035201108421
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,rainbow,6,3,0.72,870.91,891.2646394128893
+campo grande (ms),recife (pe),economic,1.39,535.4,cloudfy,6,3,1.39,659.43,741.9900367154233
+campo grande (ms),salvador (bh),premium,1.36,522.34,rainbow,6,3,1.36,834.61,995.3548091730139
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,6,3,0.72,1009.71,981.3837481232812
+recife (pe),natal (rn),firstclass,0.58,222.67,cloudfy,6,3,0.58,669.83,727.28607520726
+florianopolis (sc),salvador (bh),economic,2.44,937.77,rainbow,6,3,2.44,915.02,1042.3106158920232
+brasilia (df),recife (pe),economic,0.63,242.21,cloudfy,6,3,0.63,432.1,414.42958857067015
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,6,3,1.76,1175.62,1165.618315071376
+natal (rn),sao paulo (sp),firstclass,0.85,327.55,flyingdrops,6,4,0.85,1142.29,930.9596469949898
+brasilia (df),campo grande (ms),economic,0.72,277.7,rainbow,6,4,0.72,629.54,457.8171740022741
+florianopolis (sc),brasilia (df),economic,1.66,637.56,rainbow,6,5,1.66,555.01,598.8999559751524
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,6,5,1.46,1666.23,1452.5112053414978
+rio de janeiro (rj),natal (rn),premium,1.55,595.03,rainbow,6,5,1.55,991.04,992.8728332864545
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,6,5,0.72,1069.61,973.5282376143405
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,6,6,2.44,899.6,1039.2235791671847
+natal (rn),aracaju (se),firstclass,0.46,176.33,cloudfy,6,6,0.46,576.66,807.4999429751681
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,6,6,1.66,1569.65,1507.6973868337286
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,6,0,1.66,1576.97,1500.5166220994415
+brasilia (df),aracaju (se),firstclass,1.11,425.98,rainbow,6,0,1.11,1214.82,1247.5033102230846
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,flyingdrops,6,0,2.44,1616.44,1563.2118693973503
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,rainbow,6,0,2.44,1654.09,1555.5250453320732
+salvador (bh),campo grande (ms),premium,1.36,522.34,rainbow,6,0,1.36,774.52,689.8065732430478
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,6,3,1.84,1348.79,1266.0320971000829
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,6,3,1.76,1175.62,1165.618315071376
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,rainbow,6,3,2.1,1582.41,1518.3959950076637
+aracaju (se),sao paulo (sp),premium,1.02,392.76,rainbow,6,3,1.02,588.14,607.9823910487294
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,6,3,2.1,1574.28,1416.764822778442
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,rainbow,6,3,1.46,427.0,433.180596068163
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,6,3,1.11,654.88,731.3605685787475
+campo grande (ms),aracaju (se),premium,1.69,650.1,cloudfy,6,3,1.69,1215.45,1216.7417295706373
+brasilia (df),campo grande (ms),premium,0.72,277.7,cloudfy,6,3,0.72,831.7,715.3686980621376
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,6,3,2.1,1582.1,1409.0779987131646
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,6,3,1.49,930.34,1017.0746966999935
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,6,3,1.46,577.76,690.7420820511386
+brasilia (df),campo grande (ms),premium,0.72,277.7,cloudfy,6,3,0.72,831.7,715.3686980621376
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,rainbow,6,3,1.21,549.55,769.8728687121155
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,rainbow,6,3,2.09,1328.88,1299.5399424351208
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,6,3,1.21,585.77,769.7785635671718
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,6,3,0.72,1069.61,973.6969240580039
+recife (pe),natal (rn),firstclass,0.58,222.67,cloudfy,6,3,0.58,669.83,727.28607520726
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,6,3,1.49,949.58,1009.2935674897724
+campo grande (ms),natal (rn),firstclass,0.65,250.68,flyingdrops,6,3,0.65,749.85,898.663310477478
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,6,3,1.11,472.72,455.279021692014
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,6,3,1.76,1354.53,1337.5419213222676
+aracaju (se),rio de janeiro (rj),premium,1.55,597.61,cloudfy,6,3,1.55,1007.72,863.5012631198573
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,6,3,2.1,1248.7,1150.844077862242
+florianopolis (sc),aracaju (se),economic,2.1,808.85,rainbow,6,3,2.1,819.41,893.2825918792665
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,rainbow,6,3,1.46,577.76,690.7420820511386
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,6,3,2.1,1248.7,1150.844077862242
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,6,3,1.66,636.51,598.9743372738722
+aracaju (se),rio de janeiro (rj),firstclass,1.55,597.61,rainbow,6,3,1.55,1189.86,1121.8294891157234
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,rainbow,6,4,1.21,941.27,1020.3984834026477
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,6,4,1.76,761.2,821.6621712665377
+aracaju (se),brasilia (df),economic,1.11,425.98,rainbow,6,4,1.11,548.62,455.288983615126
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,rainbow,6,4,0.72,1069.61,973.6125808361722
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,6,4,1.11,654.88,731.2762253569157
+salvador (bh),aracaju (se),firstclass,2.16,830.86,flyingdrops,6,4,2.16,1581.59,1461.3972507981298
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,6,5,1.84,780.68,742.3811797572438
+sao paulo (sp),aracaju (se),economic,1.02,392.76,rainbow,6,5,1.02,647.9,736.9512871454144
+recife (pe),florianopolis (sc),economic,1.76,676.53,rainbow,6,5,1.76,803.39,821.6721331896496
+campo grande (ms),aracaju (se),premium,1.69,650.1,cloudfy,6,5,1.69,1215.45,1216.573043126974
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,6,6,1.76,1371.83,1337.3831968017162
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,6,6,1.02,1269.73,1260.349174822758
+florianopolis (sc),sao paulo (sp),premium,1.46,562.14,cloudfy,6,6,1.46,554.87,690.3947472406995
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,6,6,1.76,761.2,821.4934848228742
+natal (rn),campo grande (ms),economic,0.65,250.68,rainbow,6,6,0.65,470.16,339.7609483688134
+brasilia (df),aracaju (se),firstclass,1.11,425.98,rainbow,6,6,1.11,1214.82,1246.9972508920941
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,6,0,1.46,947.95,929.3563854065375
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,6,0,1.66,1087.18,1115.1170789182092
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,6,0,1.49,1310.32,1320.2949849016068
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,6,0,1.49,697.65,751.3126763043452
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,6,0,1.46,1367.6,1187.012176534457
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,6,0,1.69,1473.41,1483.0098092972762
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,rainbow,6,3,1.84,1385.49,1258.3452730348054
+brasilia (df),sao paulo (sp),economic,0.67,257.81,cloudfy,6,3,0.67,538.95,385.32698406672296
+aracaju (se),recife (pe),firstclass,1.44,555.74,cloudfy,6,3,1.44,1124.11,1153.855049150788
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,cloudfy,6,3,2.44,1640.8,1558.0117175809773
+aracaju (se),recife (pe),premium,1.44,555.74,rainbow,6,3,1.44,875.41,895.7154334448095
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,6,3,2.1,1574.28,1416.764822778442
+brasilia (df),natal (rn),firstclass,1.43,550.69,cloudfy,6,3,1.43,1313.76,1420.7582946110247
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,cloudfy,6,3,1.02,730.43,866.1220067547081
+florianopolis (sc),aracaju (se),premium,2.1,808.85,cloudfy,6,3,2.1,1149.53,1150.7497727172986
+sao paulo (sp),salvador (bh),firstclass,1.04,401.66,rainbow,6,3,1.04,1400.35,1229.6350468869869
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,6,3,0.72,661.32,632.936413417023
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,6,3,1.76,1292.29,1173.3051391366535
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,cloudfy,6,3,1.55,717.04,605.9397771368815
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,6,3,0.44,381.83,159.17499289922
+recife (pe),natal (rn),firstclass,0.58,222.67,cloudfy,6,3,0.58,669.83,727.28607520726
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,rainbow,6,3,1.46,427.0,433.180596068163
+sao paulo (sp),natal (rn),premium,0.85,327.55,rainbow,6,3,0.85,701.29,893.340153126321
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,6,3,0.63,573.61,458.6094427682484
+campo grande (ms),rio de janeiro (rj),economic,2.09,806.48,rainbow,6,3,2.09,946.55,1041.978456452145
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,6,3,1.66,1097.17,1122.5508733179913
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,6,3,1.66,636.51,598.9743372738722
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,6,3,1.84,1315.27,1258.2509678898618
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,6,3,1.49,697.65,751.05964663885
+florianopolis (sc),natal (rn),premium,1.84,709.37,cloudfy,6,3,1.84,1128.51,1000.0170470389393
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,6,3,2.1,1248.7,1150.844077862242
+natal (rn),aracaju (se),firstclass,0.46,176.33,rainbow,6,3,0.46,611.4,807.8472777856072
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,6,3,1.49,1446.34,1312.2608260258903
+rio de janeiro (rj),florianopolis (sc),premium,1.21,466.3,rainbow,7,4,1.21,672.66,761.9479728896084
+recife (pe),aracaju (se),premium,1.44,555.74,rainbow,7,4,1.44,932.22,958.114415662197
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,7,4,1.84,1114.55,999.8104192999347
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,7,4,1.49,1031.59,1053.7259722910194
+recife (pe),campo grande (ms),firstclass,1.39,535.4,flyingdrops,7,4,1.39,1038.95,1134.316292735311
+sao paulo (sp),brasilia (df),firstclass,0.67,257.81,flyingdrops,7,4,0.67,727.31,1019.2201088634841
+rio de janeiro (rj),recife (pe),premium,2.3,885.57,rainbow,7,5,2.3,1306.26,1368.6843799268622
+salvador (bh),florianopolis (sc),firstclass,2.44,937.77,rainbow,7,5,2.44,1654.09,1554.8867395607977
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,rainbow,7,5,1.46,908.17,928.8123847802058
+salvador (bh),campo grande (ms),firstclass,1.36,522.34,flyingdrops,7,5,1.36,980.4,955.0890123879723
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,7,5,1.44,684.88,700.374281312446
+natal (rn),brasilia (df),firstclass,1.43,550.69,cloudfy,7,6,1.43,1300.53,1302.689289094304
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,7,6,1.55,1098.93,1004.4179105550537
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,7,6,1.66,1222.24,1241.5600522554118
+aracaju (se),recife (pe),premium,1.44,555.74,cloudfy,7,6,1.44,835.21,895.1515089722537
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,rainbow,7,6,0.44,595.09,867.5505866872113
+salvador (bh),sao paulo (sp),economic,1.04,401.66,rainbow,7,6,1.04,381.39,214.5189488483106
+salvador (bh),brasilia (df),economic,1.76,676.56,cloudfy,7,0,1.76,587.85,668.8583482270584
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,rainbow,7,0,1.46,1718.28,1445.0295077232627
+natal (rn),recife (pe),economic,0.58,222.67,cloudfy,7,0,0.58,429.77,307.30935397302926
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,cloudfy,7,0,1.69,1581.8,1475.0120904249384
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,flyingdrops,7,0,1.02,1269.73,1260.6386444916316
+natal (rn),aracaju (se),firstclass,0.46,176.33,flyingdrops,7,0,0.46,611.59,815.5705418542628
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,7,3,1.84,1348.79,1265.815507437966
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,7,3,2.1,879.1,892.9716970722061
+florianopolis (sc),salvador (bh),premium,2.44,937.77,rainbow,7,3,2.44,1367.88,1299.655512212882
+sao paulo (sp),recife (pe),economic,1.26,486.52,cloudfy,7,3,1.26,829.91,821.1004712007526
+natal (rn),salvador (bh),firstclass,1.85,710.57,flyingdrops,7,3,1.85,1744.87,1550.5256168157343
+aracaju (se),sao paulo (sp),premium,1.02,392.76,rainbow,7,3,1.02,588.14,607.7658013866126
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,7,3,1.49,857.32,1009.1712829725994
+recife (pe),salvador (bh),economic,2.05,788.55,cloudfy,7,3,2.05,842.11,999.6972672860525
+florianopolis (sc),recife (pe),premium,1.76,676.53,cloudfy,7,3,1.76,918.66,907.073499413393
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,7,3,2.1,852.18,1002.3839985116489
+campo grande (ms),salvador (bh),economic,1.36,522.34,rainbow,7,3,1.36,615.26,737.5767335279215
+recife (pe),sao paulo (sp),firstclass,1.26,486.52,cloudfy,7,3,1.26,883.63,1012.8967246126629
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,rainbow,7,3,2.44,1630.75,1557.8894330638045
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,7,3,1.69,1387.89,1281.204103662768
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,cloudfy,7,3,1.49,808.63,796.2488295298755
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,cloudfy,7,3,1.49,1031.59,1053.810315512851
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,7,3,2.3,1611.14,1548.4949407049198
+florianopolis (sc),natal (rn),economic,1.84,709.37,rainbow,7,3,1.84,780.68,742.3332765387906
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,flyingdrops,7,3,0.48,539.39,759.8966691620777
+campo grande (ms),aracaju (se),premium,1.69,650.1,rainbow,7,3,1.69,1146.95,1216.6194450534645
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,7,4,0.72,661.32,632.6354805330747
+salvador (bh),brasilia (df),economic,1.76,676.56,rainbow,7,4,1.76,609.83,668.6152804846754
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,7,4,1.76,1354.53,1337.2409884383192
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,7,4,1.84,873.07,1009.954785164139
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,7,5,2.1,1582.1,1408.6927226073844
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,7,5,1.46,947.95,928.7180796352619
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,7,5,1.39,793.15,868.2168994523358
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,7,6,1.66,1569.65,1507.4807971716118
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,7,0,1.66,1576.97,1500.3000324373247
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,7,0,1.76,1013.4,907.4208342238321
+natal (rn),campo grande (ms),economic,0.65,250.68,rainbow,7,0,0.65,470.16,340.05041803768705
+aracaju (se),recife (pe),firstclass,1.44,555.74,flyingdrops,7,0,1.44,1088.87,1161.6726183643877
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,7,3,1.21,585.77,769.5619739050551
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,flyingdrops,7,3,1.46,762.89,956.4462373052216
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,7,3,1.11,472.72,455.06243202989725
+brasilia (df),natal (rn),premium,1.43,550.69,rainbow,7,3,1.43,1107.52,1162.4020892429294
+brasilia (df),salvador (bh),firstclass,1.76,676.56,rainbow,7,3,1.76,1665.24,1572.7285807809808
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,cloudfy,7,3,1.21,313.62,253.766567071157
+aracaju (se),salvador (bh),firstclass,2.16,830.86,rainbow,7,3,2.16,1723.71,1565.7301836464098
+recife (pe),sao paulo (sp),economic,1.26,486.52,rainbow,7,3,1.26,545.95,497.1956229237086
+aracaju (se),sao paulo (sp),premium,1.02,392.76,cloudfy,7,3,1.02,630.34,607.6714962416688
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,7,3,2.3,1611.14,1548.4949407049198
+florianopolis (sc),recife (pe),premium,1.76,676.53,rainbow,7,3,1.76,1013.4,907.1678045583369
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,7,3,1.49,1030.13,1053.904620657795
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,rainbow,7,3,1.66,1087.18,1114.647459590597
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,7,3,1.76,1300.6,1165.3074202643156
+recife (pe),campo grande (ms),premium,1.39,535.4,cloudfy,7,3,1.39,793.15,868.3855858959993
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,cloudfy,7,3,1.46,426.91,432.8697012611025
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,7,3,0.72,847.83,898.7348738160499
+recife (pe),aracaju (se),firstclass,1.44,555.74,rainbow,7,3,1.44,1181.19,1216.4326797349513
+florianopolis (sc),recife (pe),economic,1.76,676.53,rainbow,7,3,1.76,695.3,649.6063185753612
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,rainbow,7,3,1.69,1387.89,1281.204103662768
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,7,3,1.76,1175.62,1165.4017254092591
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,cloudfy,7,3,2.44,1640.8,1557.7951279188605
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,flyingdrops,7,4,2.1,1499.93,1525.7818861889928
+brasilia (df),aracaju (se),economic,1.11,425.98,cloudfy,7,4,1.11,654.88,731.0596356947989
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,7,4,1.69,1473.41,1482.4558467478323
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,7,4,1.49,1341.21,1312.0541982868858
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,7,4,1.46,1367.6,1186.4582139850131
+florianopolis (sc),aracaju (se),economic,2.1,808.85,cloudfy,7,4,2.1,879.1,892.8873538503744
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,7,4,1.44,663.23,700.5529296792214
+rio de janeiro (rj),aracaju (se),firstclass,1.55,597.61,cloudfy,7,4,1.55,1446.4,1262.726212704696
+sao paulo (sp),recife (pe),economic,1.26,486.52,cloudfy,7,4,1.26,829.91,821.0161279789207
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,rainbow,7,5,1.55,734.09,746.9407677939099
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,7,5,1.49,1446.34,1311.8755499201102
+recife (pe),campo grande (ms),economic,1.39,535.4,cloudfy,7,5,1.39,563.71,610.6554134693603
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,7,5,1.66,1487.52,1499.7840111832224
+rio de janeiro (rj),aracaju (se),economic,1.55,597.61,cloudfy,7,5,1.55,796.42,746.846462648966
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,7,5,0.65,979.56,863.1109328277038
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,7,5,1.76,1074.75,1078.9227243655646
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,cloudfy,7,5,1.66,1487.52,1499.7840111832224
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,7,6,1.76,761.2,821.2768951607574
+aracaju (se),brasilia (df),economic,1.11,425.98,cloudfy,7,6,1.11,472.72,454.80940236440205
+rio de janeiro (rj),sao paulo (sp),premium,0.86,331.89,rainbow,7,6,0.86,612.87,516.9284518609082
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,7,6,0.72,847.83,898.4818441505547
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,7,6,1.84,873.07,1009.7860987204755
+campo grande (ms),natal (rn),firstclass,0.65,250.68,cloudfy,7,6,0.65,732.89,890.412561939645
+sao paulo (sp),campo grande (ms),economic,0.44,168.22,rainbow,7,6,0.44,367.22,351.75517985331317
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,7,6,0.65,979.56,863.026589605872
+brasilia (df),florianopolis (sc),economic,1.66,637.56,cloudfy,7,6,1.66,884.94,983.9042611274925
+sao paulo (sp),florianopolis (sc),economic,1.46,562.14,cloudfy,7,6,1.46,947.95,928.6337364134303
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,rainbow,7,6,1.76,1371.83,1337.1666071395994
+rio de janeiro (rj),florianopolis (sc),premium,1.21,466.3,cloudfy,7,0,1.21,708.27,762.1910406319915
+natal (rn),aracaju (se),firstclass,0.46,176.33,cloudfy,7,0,0.46,576.66,807.7894126440418
+salvador (bh),aracaju (se),firstclass,2.16,830.86,rainbow,7,0,2.16,1520.02,1453.8312099580626
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,cloudfy,7,0,2.3,1664.01,1627.245711742
+brasilia (df),florianopolis (sc),economic,1.66,637.56,cloudfy,7,0,1.66,884.94,984.4103204584829
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,7,0,1.66,1576.97,1500.3000324373247
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,7,0,1.49,1341.21,1312.3915711742125
+campo grande (ms),brasilia (df),premium,0.72,277.7,cloudfy,7,3,0.72,661.32,632.7198237549063
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,flyingdrops,7,3,0.48,539.39,759.8966691620777
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,7,3,1.69,1376.09,1288.890927728045
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,7,3,1.46,1666.23,1452.4633021230447
+florianopolis (sc),brasilia (df),premium,1.66,637.56,cloudfy,7,3,1.66,885.37,856.3192335947309
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,7,3,1.69,1376.09,1288.890927728045
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,cloudfy,7,3,1.21,585.77,769.5619739050551
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,7,3,0.72,583.6,457.59062241704527
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,rainbow,7,3,1.49,544.86,493.3758761387013
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,7,3,1.84,1570.02,1525.834535219869
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,7,3,2.1,869.13,1002.2896933667051
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,7,3,1.66,636.51,598.7577476117553
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,cloudfy,7,3,1.21,313.62,253.766567071157
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,cloudfy,7,3,1.49,949.58,1009.0769778276556
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,7,3,1.66,636.51,598.7577476117553
+sao paulo (sp),campo grande (ms),firstclass,0.44,168.22,flyingdrops,7,3,0.44,668.19,875.4904404179838
+florianopolis (sc),natal (rn),economic,1.84,709.37,cloudfy,7,3,1.84,726.95,742.2389713938468
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,cloudfy,7,3,1.46,693.51,948.6651080950006
+aracaju (se),recife (pe),economic,1.44,555.74,cloudfy,7,3,1.44,604.14,637.8430526547734
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,rainbow,7,3,1.55,712.64,605.8174926197087
+campo grande (ms),rio de janeiro (rj),premium,2.09,806.48,cloudfy,7,3,2.09,1363.27,1299.2290476280605
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,rainbow,7,3,0.44,381.83,158.95840323710328
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,flyingdrops,7,3,1.76,1434.38,1345.1064608703718
+campo grande (ms),natal (rn),premium,0.65,250.68,rainbow,7,3,0.65,541.59,632.5259758991615
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,7,4,1.76,1354.53,1337.2409884383192
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,rainbow,7,4,1.49,857.32,1009.0869397507678
+campo grande (ms),florianopolis (sc),economic,1.49,573.81,rainbow,7,4,1.49,764.53,796.2587914529876
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,rainbow,7,4,1.46,1367.6,1186.4582139850131
+aracaju (se),florianopolis (sc),firstclass,2.1,808.85,cloudfy,7,5,2.1,1515.79,1517.9164137569396
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,flyingdrops,7,5,1.66,1569.65,1507.5651403934435
+natal (rn),recife (pe),economic,0.58,222.67,rainbow,7,5,0.58,406.36,306.98194300881437
+aracaju (se),campo grande (ms),economic,1.69,650.1,rainbow,7,6,1.69,743.54,765.1556671633746
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,7,6,1.84,1554.92,1525.6758106993175
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,rainbow,7,6,1.69,1545.78,1474.6003362388915
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,7,6,1.66,1127.36,1114.300124780158
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,7,6,1.44,684.88,700.2899380906142
+natal (rn),recife (pe),economic,0.58,222.67,rainbow,7,0,0.58,406.36,307.403659117973
+natal (rn),florianopolis (sc),economic,1.84,709.37,cloudfy,7,0,1.84,873.07,1010.2921580514659
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,cloudfy,7,0,1.49,1446.34,1312.297266029269
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,flyingdrops,7,0,0.72,1009.71,981.4201881266596
+salvador (bh),sao paulo (sp),firstclass,1.04,401.66,rainbow,7,0,1.04,667.0,730.8204150131991
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,flyingdrops,7,0,0.72,847.83,898.9879034815451
+aracaju (se),campo grande (ms),firstclass,1.69,650.1,flyingdrops,7,0,1.69,1376.09,1289.1439573935404
+florianopolis (sc),campo grande (ms),firstclass,1.49,573.81,flyingdrops,7,3,1.49,930.34,1016.8581070378767
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,7,3,2.1,869.13,1002.2896933667051
+florianopolis (sc),natal (rn),premium,1.84,709.37,cloudfy,7,3,1.84,1128.51,999.8004573768225
+brasilia (df),salvador (bh),firstclass,1.76,676.56,cloudfy,7,3,1.76,1685.23,1572.6342756360373
+brasilia (df),recife (pe),premium,0.63,242.21,rainbow,7,3,0.63,559.13,671.8687900364729
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,7,3,1.76,1300.6,1165.3074202643156
+natal (rn),rio de janeiro (rj),firstclass,1.55,595.03,rainbow,7,3,1.55,1314.05,1268.2490499986839
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,flyingdrops,7,3,0.85,943.18,1159.044308380404
+recife (pe),sao paulo (sp),premium,1.26,486.52,rainbow,7,3,1.26,670.13,754.7571089066842
+aracaju (se),sao paulo (sp),firstclass,1.02,392.76,flyingdrops,7,3,1.02,756.3,873.6865463028124
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,7,3,1.84,1554.92,1525.9288403648125
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,7,3,1.66,1097.17,1122.3342836558745
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,flyingdrops,7,3,1.76,1292.29,1173.0885494745366
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,rainbow,7,4,1.26,1573.5,1336.9058399577625
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,flyingdrops,7,4,1.84,1540.6,1533.5313212082583
+aracaju (se),florianopolis (sc),economic,2.1,808.85,rainbow,7,4,2.1,852.18,1002.2996552898172
+recife (pe),campo grande (ms),firstclass,1.39,535.4,cloudfy,7,4,1.39,1110.76,1126.53516352509
+recife (pe),brasilia (df),premium,0.63,242.21,rainbow,7,5,0.63,638.63,458.3184718074121
+aracaju (se),florianopolis (sc),premium,2.1,808.85,cloudfy,7,5,2.1,1174.97,1259.6824929060172
+aracaju (se),recife (pe),economic,1.44,555.74,rainbow,7,5,1.44,602.49,637.7686713560538
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,rainbow,7,5,1.21,519.1,504.3021436848012
+aracaju (se),campo grande (ms),premium,1.69,650.1,rainbow,7,5,1.69,1116.83,1022.8014963681819
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,flyingdrops,7,6,1.49,1310.32,1319.5723359084996
+rio de janeiro (rj),aracaju (se),premium,1.55,597.61,rainbow,7,6,1.55,1098.93,1004.4179105550537
+recife (pe),natal (rn),economic,0.58,222.67,cloudfy,7,6,0.58,301.51,211.02104904574992
+brasilia (df),sao paulo (sp),firstclass,0.67,257.81,rainbow,8,0,0.67,992.17,901.0365463868266
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,8,0,0.65,979.56,863.3160592747457
+rio de janeiro (rj),campo grande (ms),firstclass,2.09,806.48,flyingdrops,8,0,2.09,1566.26,1512.9232370688283
+rio de janeiro (rj),campo grande (ms),premium,2.09,806.48,cloudfy,8,0,2.09,1139.93,1246.9081870076848
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,cloudfy,8,0,1.46,1684.14,1444.718612916202
+campo grande (ms),florianopolis (sc),firstclass,1.49,573.81,rainbow,8,0,1.49,1341.21,1312.1749815120957
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,cloudfy,8,0,1.84,1570.02,1525.8709752232476
+campo grande (ms),aracaju (se),economic,1.69,650.1,rainbow,8,3,1.69,877.56,958.8413694083721
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,cloudfy,8,3,1.84,1315.27,1257.8177885656282
+recife (pe),natal (rn),premium,0.58,222.67,rainbow,8,3,0.58,488.73,468.71328017704786
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,flyingdrops,8,3,1.66,1097.17,1122.1176939937577
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,rainbow,8,3,1.76,1175.62,1165.1851357471428
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,flyingdrops,8,3,2.3,1706.89,1555.9651751080805
+florianopolis (sc),recife (pe),firstclass,1.76,676.53,cloudfy,8,3,1.76,1300.6,1165.0908306021988
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,8,3,0.63,573.61,458.176263444015
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,8,3,1.76,674.52,649.2954237683007
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,rainbow,8,3,0.72,870.91,890.831460088656
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,8,3,2.1,1248.7,1150.410898538009
+recife (pe),natal (rn),economic,0.58,222.67,rainbow,8,3,0.58,360.22,211.15179419407218
+natal (rn),brasilia (df),economic,1.43,550.69,rainbow,8,3,1.43,686.79,787.0246274087284
+brasilia (df),natal (rn),firstclass,1.43,550.69,rainbow,8,3,1.43,1434.91,1420.419420431735
+florianopolis (sc),rio de janeiro (rj),economic,1.21,466.3,rainbow,8,3,1.21,317.08,253.64428255398403
+florianopolis (sc),brasilia (df),economic,1.66,637.56,cloudfy,8,3,1.66,636.51,598.5411579496385
+natal (rn),rio de janeiro (rj),economic,1.55,595.03,cloudfy,8,3,1.55,774.57,752.1427483577254
+campo grande (ms),rio de janeiro (rj),firstclass,2.09,806.48,flyingdrops,8,3,2.09,1609.81,1565.0275080270872
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,flyingdrops,8,3,2.44,1692.64,1565.3596674669652
+sao paulo (sp),recife (pe),firstclass,1.26,486.52,flyingdrops,8,3,1.26,1464.89,1344.4604175827553
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,8,3,1.66,1127.36,1114.3365647835367
+sao paulo (sp),aracaju (se),firstclass,1.02,392.76,rainbow,8,4,1.02,1159.84,1252.3978578769106
+brasilia (df),recife (pe),firstclass,0.63,242.21,cloudfy,8,4,0.63,804.24,929.7074728585031
+recife (pe),natal (rn),firstclass,0.58,222.67,flyingdrops,8,4,0.58,633.71,734.5496818714158
+natal (rn),aracaju (se),economic,0.46,176.33,rainbow,8,4,0.46,301.61,291.53434840564387
+natal (rn),brasilia (df),firstclass,1.43,550.69,cloudfy,8,4,1.43,1300.53,1302.641385875851
+florianopolis (sc),recife (pe),economic,1.76,676.53,cloudfy,8,5,1.76,674.52,649.1267373246371
+natal (rn),florianopolis (sc),firstclass,1.84,709.37,rainbow,8,5,1.84,1554.92,1525.5435642590323
+rio de janeiro (rj),recife (pe),firstclass,2.3,885.57,flyingdrops,8,5,2.3,1702.23,1634.3885351809454
+salvador (bh),aracaju (se),economic,2.16,830.86,rainbow,8,5,2.16,826.02,937.3974973528892
+aracaju (se),florianopolis (sc),premium,2.1,808.85,rainbow,8,5,2.1,1132.81,1259.5602083888443
+campo grande (ms),recife (pe),firstclass,1.39,535.4,rainbow,8,6,1.39,1185.95,1257.1935397045363
+rio de janeiro (rj),campo grande (ms),premium,2.09,806.48,cloudfy,8,6,2.09,1139.93,1246.4021276766944
+salvador (bh),florianopolis (sc),premium,2.44,937.77,cloudfy,8,6,2.44,1321.52,1296.2575806809832
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,8,6,1.49,1030.13,1053.435001330183
+rio de janeiro (rj),florianopolis (sc),economic,1.21,466.3,rainbow,8,6,1.21,519.1,504.00121080085273
+sao paulo (sp),campo grande (ms),premium,0.44,168.22,cloudfy,8,6,0.44,447.53,609.0057710292283
+recife (pe),florianopolis (sc),premium,1.76,676.53,cloudfy,8,0,1.76,1074.75,1079.1278508126065
+recife (pe),brasilia (df),firstclass,0.63,242.21,rainbow,8,3,0.63,721.93,716.5044894398812
+campo grande (ms),sao paulo (sp),economic,0.44,168.22,cloudfy,8,3,0.44,375.51,158.6475084300428
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,flyingdrops,8,3,1.21,624.89,777.1265134531594
+florianopolis (sc),natal (rn),premium,1.84,709.37,rainbow,8,3,1.84,1114.55,999.6781728596496
+florianopolis (sc),salvador (bh),firstclass,2.44,937.77,rainbow,8,3,2.44,1630.75,1557.6728434016877
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,flyingdrops,8,3,0.48,539.39,759.6800794999609
+campo grande (ms),salvador (bh),premium,1.36,522.34,rainbow,8,3,1.36,834.61,994.9216298487805
+aracaju (se),rio de janeiro (rj),economic,1.55,597.61,rainbow,8,3,1.55,712.64,605.6009029575919
+florianopolis (sc),sao paulo (sp),firstclass,1.46,562.14,rainbow,8,3,1.46,738.8,948.5428235778276
+brasilia (df),rio de janeiro (rj),economic,0.48,183.37,rainbow,8,3,0.48,371.04,236.19784860078568
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,rainbow,8,3,2.1,1582.1,1408.6448193889314
+aracaju (se),campo grande (ms),economic,1.69,650.1,cloudfy,8,3,1.69,750.92,765.0978020218092
+aracaju (se),campo grande (ms),economic,1.69,650.1,rainbow,8,3,1.69,743.54,765.1921071667531
+campo grande (ms),brasilia (df),premium,0.72,277.7,rainbow,8,3,0.72,691.99,632.5975392377334
+recife (pe),rio de janeiro (rj),firstclass,2.3,885.57,rainbow,8,3,2.3,1611.14,1548.278351042803
+brasilia (df),campo grande (ms),firstclass,0.72,277.7,cloudfy,8,3,0.72,1096.58,973.1694395888265
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,8,3,2.44,1311.38,1299.3446174058217
+recife (pe),aracaju (se),economic,1.44,555.74,rainbow,8,3,1.44,663.23,700.4206832389365
+recife (pe),florianopolis (sc),economic,1.76,676.53,cloudfy,8,3,1.76,761.2,821.3133351641358
+recife (pe),campo grande (ms),firstclass,1.39,535.4,flyingdrops,8,3,1.39,1038.95,1134.1840462950263
+brasilia (df),natal (rn),firstclass,1.43,550.69,rainbow,8,3,1.43,1434.91,1420.419420431735
+florianopolis (sc),aracaju (se),firstclass,2.1,808.85,flyingdrops,8,3,2.1,1574.28,1416.3316434542085
+florianopolis (sc),brasilia (df),firstclass,1.66,637.56,cloudfy,8,3,1.66,1127.36,1114.3365647835367
+natal (rn),rio de janeiro (rj),economic,1.55,595.03,rainbow,8,3,1.55,755.71,752.2370535026693
+florianopolis (sc),campo grande (ms),premium,1.49,573.81,cloudfy,8,3,1.49,697.65,750.6264673146164
+florianopolis (sc),rio de janeiro (rj),firstclass,1.21,466.3,rainbow,8,3,1.21,549.55,769.4396893878821
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,8,3,1.39,1262.23,1265.1333934353088
+recife (pe),aracaju (se),firstclass,1.44,555.74,flyingdrops,8,4,1.44,1300.81,1223.81857091628
+natal (rn),campo grande (ms),firstclass,0.65,250.68,cloudfy,8,4,0.65,953.32,855.1975571771978
+brasilia (df),aracaju (se),firstclass,1.11,425.98,cloudfy,8,4,1.11,1260.1,1246.6384528665803
+sao paulo (sp),florianopolis (sc),firstclass,1.46,562.14,flyingdrops,8,4,1.46,1666.23,1452.1623692390963
+campo grande (ms),aracaju (se),firstclass,1.69,650.1,flyingdrops,8,5,1.69,1473.41,1482.1549138638838
+salvador (bh),natal (rn),firstclass,1.85,710.57,flyingdrops,8,5,1.85,1241.04,1279.5061766584868
+rio de janeiro (rj),natal (rn),economic,1.55,595.03,rainbow,8,5,1.55,670.29,734.8781679792454
+campo grande (ms),brasilia (df),firstclass,0.72,277.7,cloudfy,8,5,0.72,949.99,890.5684685000487
+rio de janeiro (rj),florianopolis (sc),firstclass,1.21,466.3,flyingdrops,8,6,1.21,961.99,1027.483441700028
+campo grande (ms),recife (pe),firstclass,1.39,535.4,flyingdrops,8,6,1.39,1262.23,1264.8803637698138
+brasilia (df),recife (pe),premium,0.63,242.21,cloudfy,8,6,0.63,568.38,671.3048655639171
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,8,6,1.76,1354.53,1336.8557123325386
+brasilia (df),florianopolis (sc),firstclass,1.66,637.56,rainbow,8,0,1.66,1576.97,1500.083442775208
+natal (rn),campo grande (ms),firstclass,0.65,250.68,flyingdrops,8,0,0.65,979.56,863.3160592747457
+recife (pe),florianopolis (sc),firstclass,1.76,676.53,cloudfy,8,0,1.76,1354.53,1337.361771663529
+campo grande (ms),brasilia (df),economic,0.72,277.7,rainbow,8,0,0.72,517.82,375.289082920253
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,8,0,1.49,1030.13,1053.9410606611734
+brasilia (df),recife (pe),economic,0.63,242.21,rainbow,8,0,0.63,421.2,414.3437440568757
+salvador (bh),aracaju (se),premium,2.16,830.86,cloudfy,8,0,2.16,1209.04,1195.2863943000798
+florianopolis (sc),brasilia (df),economic,1.66,637.56,rainbow,8,3,1.66,555.01,598.6354630945824
+sao paulo (sp),natal (rn),firstclass,0.85,327.55,flyingdrops,8,3,0.85,943.18,1158.8277187182873
+recife (pe),natal (rn),economic,0.58,222.67,cloudfy,8,3,0.58,301.51,211.05748904912843
+florianopolis (sc),aracaju (se),premium,2.1,808.85,rainbow,8,3,2.1,1248.7,1150.410898538009
+natal (rn),campo grande (ms),economic,0.65,250.68,cloudfy,8,3,0.65,546.04,339.48649356513135
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,8,3,2.1,869.13,1002.0731037045883
+brasilia (df),rio de janeiro (rj),firstclass,0.48,183.37,rainbow,8,3,0.48,586.04,751.9932554346838
+campo grande (ms),florianopolis (sc),premium,1.49,573.81,rainbow,8,3,1.49,1030.13,1053.6880309956782
+florianopolis (sc),sao paulo (sp),economic,1.46,562.14,rainbow,8,3,1.46,427.0,432.74741674392953
+natal (rn),florianopolis (sc),economic,1.84,709.37,rainbow,8,3,1.84,884.4,1009.9168438687979
+aracaju (se),natal (rn),premium,0.46,176.33,cloudfy,8,3,0.46,535.95,390.6037117678825
+florianopolis (sc),salvador (bh),premium,2.44,937.77,cloudfy,8,3,2.44,1311.38,1299.3446174058217
+sao paulo (sp),salvador (bh),economic,1.04,401.66,cloudfy,8,3,1.04,793.27,713.3121555839117
+campo grande (ms),salvador (bh),firstclass,1.36,522.34,cloudfy,8,3,1.36,1149.38,1253.061245554759
+aracaju (se),recife (pe),firstclass,1.44,555.74,rainbow,8,3,1.44,1119.47,1153.5161749714985
+florianopolis (sc),natal (rn),firstclass,1.84,709.37,flyingdrops,8,3,1.84,1348.79,1265.5989177758493
+florianopolis (sc),rio de janeiro (rj),premium,1.21,466.3,rainbow,8,3,1.21,481.42,511.2057685369596
+salvador (bh),brasilia (df),economic,1.76,676.56,rainbow,8,4,1.76,609.83,668.3986908225587
+sao paulo (sp),aracaju (se),premium,1.02,392.76,rainbow,8,4,1.02,962.54,994.1639370259882
+aracaju (se),florianopolis (sc),economic,2.1,808.85,cloudfy,8,4,2.1,869.13,1001.9887604827567
+florianopolis (sc),campo grande (ms),economic,1.49,573.81,rainbow,8,4,1.49,544.86,493.07494325475295
+sao paulo (sp),florianopolis (sc),premium,1.46,562.14,cloudfy,8,5,1.46,1370.17,1186.0629759561211
+recife (pe),aracaju (se),economic,1.44,555.74,cloudfy,8,5,1.44,684.88,700.1576916503292
+brasilia (df),florianopolis (sc),premium,1.66,637.56,rainbow,8,5,1.66,1222.24,1241.4278058151272
+salvador (bh),florianopolis (sc),premium,2.44,937.77,rainbow,8,6,2.44,1336.68,1296.3518858259267
+recife (pe),brasilia (df),premium,0.63,242.21,cloudfy,8,6,0.63,573.61,457.9232337785198
+salvador (bh),florianopolis (sc),economic,2.44,937.77,cloudfy,8,6,2.44,943.15,1038.6960946980075
+salvador (bh),florianopolis (sc),economic,2.44,937.77,rainbow,8,6,2.44,899.6,1038.790399842951
+brasilia (df),campo grande (ms),economic,0.72,277.7,cloudfy,8,0,0.72,583.6,457.6270624204237

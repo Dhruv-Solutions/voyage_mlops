@@ -1,0 +1,26 @@
+{
+  "non_null": [
+    "price",
+    "from",
+    "to",
+    "date"
+  ],
+  "positive": [
+    "price",
+    "distance"
+  ],
+  "dtypes": {
+    "price": "number",
+    "distance": "number"
+  },
+  "ranges": {
+    "price": [
+      0,
+      null
+    ],
+    "distance": [
+      0,
+      null
+    ]
+  }
+}

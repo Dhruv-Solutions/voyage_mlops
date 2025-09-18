@@ -1,0 +1,12 @@
+services:
+  ui:
+    build: ./ui
+    container_name: voyage-ui
+    environment:
+      - API_BASE=http://voyage:8080
+    ports:
+      - "8501:8501"
+    depends_on:
+      - voyage
+    volumes:
+      - ./data:/app/data

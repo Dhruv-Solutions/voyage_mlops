@@ -1,0 +1,23 @@
+{
+  "non_null": [
+    "price",
+    "place",
+    "days",
+    "date"
+  ],
+  "positive": [
+    "price",
+    "days"
+  ],
+  "dtypes": {
+    "price": "number",
+    "days": "number"
+  },
+  "relations": [
+    [
+      "total",
+      "approx_eq",
+      "price*days"
+    ]
+  ]
+}

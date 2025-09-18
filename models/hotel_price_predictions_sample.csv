@@ -1,0 +1,2001 @@
+name,place,days,month,dayofweek,actual_price,pred_price
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,12,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel a,florianopolis (sc),2,12,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel bp,brasilia (df),1,12,3,247.62,247.61999999999767
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bp,brasilia (df),4,12,3,247.62,247.61999999999756
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),3,12,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,12,3,247.62,247.61999999999748
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),4,12,3,60.39,60.38999999999981
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel k,salvador (bh),1,12,3,263.41,263.4100000000014
+hotel z,aracaju (se),2,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),4,12,3,165.99,165.989999999998
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel af,sao paulo (sp),1,12,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,12,3,242.88,242.8800000000025
+hotel bw,campo grande (ms),1,12,3,60.39,60.38999999999977
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,12,3,242.88,242.88000000000207
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),3,12,3,165.99,165.989999999998
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel k,salvador (bh),2,12,3,263.41,263.4100000000015
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),4,12,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,12,3,247.62,247.61999999999748
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel cb,rio de janeiro (rj),1,12,3,165.99,165.989999999998
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel k,salvador (bh),4,12,3,263.41,263.4100000000015
+hotel bd,natal (rn),4,12,3,242.88,242.8800000000024
+hotel a,florianopolis (sc),4,12,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel au,recife (pe),2,12,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,12,3,60.39,60.38999999999976
+hotel au,recife (pe),3,12,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,12,3,242.88,242.8800000000025
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel au,recife (pe),1,12,3,312.83,312.82999999999896
+hotel z,aracaju (se),1,12,3,208.04,208.03999999999877
+hotel k,salvador (bh),3,12,3,263.41,263.4100000000015
+hotel z,aracaju (se),4,12,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,12,3,208.04,208.03999999999877
+hotel au,recife (pe),4,12,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,12,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),1,12,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),2,12,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,12,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,1,3,247.62,247.61999999999847
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel a,florianopolis (sc),1,1,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel a,florianopolis (sc),1,1,3,313.02,313.0200000000003
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel bp,brasilia (df),4,1,3,247.62,247.61999999999847
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel bp,brasilia (df),4,1,3,247.62,247.61999999999847
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel a,florianopolis (sc),1,1,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel bw,campo grande (ms),1,1,3,60.39,60.38999999999976
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),2,1,3,313.02,313.0200000000003
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,1,3,139.1,139.10000000000161
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),1,1,3,313.02,313.0200000000003
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,1,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,1,3,263.41,263.41000000000116
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,1,3,242.88,242.88000000000108
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel cb,rio de janeiro (rj),4,1,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,1,3,60.39,60.38999999999977
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel bp,brasilia (df),4,1,3,247.62,247.61999999999847
+hotel au,recife (pe),3,1,3,312.83,312.82999999999896
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel af,sao paulo (sp),2,1,3,139.1,139.10000000000161
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel k,salvador (bh),4,1,3,263.41,263.410000000001
+hotel a,florianopolis (sc),1,1,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),2,1,3,165.99,165.989999999998
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel z,aracaju (se),2,1,3,208.04,208.03999999999877
+hotel au,recife (pe),2,1,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,1,3,208.04,208.03999999999877
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),3,1,3,165.99,165.989999999998
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,1,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,1,3,263.41,263.4100000000013
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel au,recife (pe),1,1,3,312.83,312.82999999999896
+hotel z,aracaju (se),1,1,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,1,3,247.62,247.61999999999847
+hotel au,recife (pe),4,1,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,1,3,60.39,60.389999999999745
+hotel bp,brasilia (df),1,1,3,247.62,247.61999999999867
+hotel bp,brasilia (df),3,1,3,247.62,247.61999999999847
+hotel bd,natal (rn),2,1,3,242.88,242.8800000000012
+hotel bd,natal (rn),3,1,3,242.88,242.8800000000012
+hotel k,salvador (bh),3,1,3,263.41,263.41000000000105
+hotel bw,campo grande (ms),4,1,3,60.39,60.38999999999979
+hotel z,aracaju (se),3,1,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,1,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),1,1,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,1,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,1,3,247.62,247.61999999999847
+hotel bd,natal (rn),1,1,3,242.88,242.88000000000076
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel a,florianopolis (sc),4,2,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),4,2,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),4,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,2,3,247.62,247.61999999999804
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel bp,brasilia (df),2,2,3,247.62,247.61999999999804
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,2,3,247.62,247.61999999999804
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel a,florianopolis (sc),4,2,3,313.02,313.0200000000003
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel a,florianopolis (sc),4,2,3,313.02,313.0200000000003
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,2,3,263.41,263.41000000000133
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel bp,brasilia (df),2,2,3,247.62,247.61999999999804
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel bp,brasilia (df),4,2,3,247.62,247.61999999999807
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel a,florianopolis (sc),1,2,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),4,2,3,60.39,60.38999999999978
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel z,aracaju (se),4,2,3,208.04,208.03999999999877
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,2,3,208.04,208.03999999999877
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),1,2,3,60.39,60.389999999999745
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,2,3,242.88,242.88000000000173
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,2,3,208.04,208.03999999999877
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel au,recife (pe),1,2,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,2,3,60.39,60.38999999999972
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel cb,rio de janeiro (rj),4,2,3,165.99,165.989999999998
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),3,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,2,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,2,3,208.04,208.03999999999877
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel k,salvador (bh),1,2,3,263.41,263.4100000000014
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel au,recife (pe),4,2,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel bp,brasilia (df),3,2,3,247.62,247.61999999999804
+hotel bd,natal (rn),3,2,3,242.88,242.88000000000176
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel bd,natal (rn),1,2,3,242.88,242.88000000000133
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),3,2,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,2,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel au,recife (pe),2,2,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,2,3,263.41,263.4100000000013
+hotel a,florianopolis (sc),2,2,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,2,3,242.88,242.88000000000162
+hotel af,sao paulo (sp),3,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,2,3,247.62,247.61999999999804
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),4,2,3,139.1,139.10000000000161
+hotel bp,brasilia (df),1,2,3,247.62,247.61999999999833
+hotel au,recife (pe),3,2,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,2,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,2,3,60.39,60.389999999999766
+hotel af,sao paulo (sp),2,2,3,139.1,139.10000000000161
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),4,3,3,165.99,165.989999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),3,3,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel a,florianopolis (sc),3,3,3,313.02,313.0200000000003
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel bp,brasilia (df),1,3,3,247.62,247.61999999999816
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel a,florianopolis (sc),3,3,3,313.02,313.0200000000003
+hotel bp,brasilia (df),1,3,3,247.62,247.61999999999816
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),4,3,3,165.99,165.989999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel bp,brasilia (df),2,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),4,3,3,165.99,165.989999999998
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bp,brasilia (df),1,3,3,247.62,247.61999999999816
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bp,brasilia (df),1,3,3,247.62,247.61999999999816
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel cb,rio de janeiro (rj),4,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel cb,rio de janeiro (rj),4,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),3,3,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),3,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel af,sao paulo (sp),1,3,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,3,3,247.62,247.619999999998
+hotel au,recife (pe),1,3,3,312.83,312.82999999999896
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel au,recife (pe),2,3,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),4,3,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel au,recife (pe),3,3,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel k,salvador (bh),1,3,3,263.41,263.41000000000145
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,3,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),2,3,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel bd,natal (rn),2,3,3,242.88,242.88000000000227
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel z,aracaju (se),1,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),3,3,3,263.41,263.4100000000013
+hotel z,aracaju (se),3,3,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,3,3,60.39,60.38999999999977
+hotel a,florianopolis (sc),3,3,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),2,3,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),4,3,3,139.1,139.10000000000161
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel bd,natal (rn),3,3,3,242.88,242.88000000000227
+hotel bd,natal (rn),1,3,3,242.88,242.88000000000184
+hotel a,florianopolis (sc),1,3,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,3,3,263.41,263.4100000000014
+hotel a,florianopolis (sc),4,3,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),2,3,3,60.39,60.38999999999974
+hotel bd,natal (rn),4,3,3,242.88,242.88000000000213
+hotel bw,campo grande (ms),1,3,3,60.39,60.38999999999976
+hotel cb,rio de janeiro (rj),3,3,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,3,3,165.99,165.989999999998
+hotel au,recife (pe),4,3,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,3,3,247.62,247.61999999999793
+hotel cb,rio de janeiro (rj),2,3,3,165.99,165.989999999998
+hotel z,aracaju (se),2,3,3,208.04,208.03999999999877
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),1,4,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel z,aracaju (se),4,4,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel au,recife (pe),3,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel au,recife (pe),2,4,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel bd,natal (rn),2,4,3,242.88,242.8800000000025
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel bd,natal (rn),2,4,3,242.88,242.8800000000025
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,4,3,242.88,242.8800000000025
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel z,aracaju (se),4,4,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),2,4,3,242.88,242.8800000000025
+hotel z,aracaju (se),4,4,3,208.04,208.03999999999877
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),1,4,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel au,recife (pe),3,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel a,florianopolis (sc),2,4,3,313.02,313.0200000000003
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel bd,natal (rn),2,4,3,242.88,242.8800000000025
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,4,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),4,4,3,165.99,165.989999999998
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel z,aracaju (se),4,4,3,208.04,208.03999999999877
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel a,florianopolis (sc),1,4,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,4,3,60.39,60.38999999999976
+hotel z,aracaju (se),2,4,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel bp,brasilia (df),3,4,3,247.62,247.61999999999762
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel au,recife (pe),4,4,3,312.83,312.82999999999896
+hotel au,recife (pe),2,4,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel k,salvador (bh),1,4,3,263.41,263.4100000000015
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel bw,campo grande (ms),3,4,3,60.39,60.38999999999975
+hotel a,florianopolis (sc),2,4,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel au,recife (pe),3,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),3,4,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,4,3,165.99,165.989999999998
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,4,3,263.41,263.4100000000015
+hotel au,recife (pe),1,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel au,recife (pe),3,4,3,312.83,312.82999999999896
+hotel bp,brasilia (df),2,4,3,247.62,247.61999999999765
+hotel af,sao paulo (sp),4,4,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,4,3,247.62,247.6199999999977
+hotel bd,natal (rn),4,4,3,242.88,242.8800000000024
+hotel z,aracaju (se),1,4,3,208.04,208.03999999999877
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel bw,campo grande (ms),2,4,3,60.39,60.38999999999973
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel cb,rio de janeiro (rj),3,4,3,165.99,165.989999999998
+hotel af,sao paulo (sp),1,4,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),2,4,3,139.1,139.10000000000161
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel k,salvador (bh),4,4,3,263.41,263.41000000000133
+hotel bd,natal (rn),3,4,3,242.88,242.8800000000025
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,4,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,4,3,242.88,242.8800000000021
+hotel a,florianopolis (sc),4,4,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),3,4,3,313.02,313.0200000000003
+hotel bp,brasilia (df),1,4,3,247.62,247.6199999999979
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel cb,rio de janeiro (rj),1,4,3,165.99,165.989999999998
+hotel k,salvador (bh),3,4,3,263.41,263.41000000000133
+hotel bw,campo grande (ms),4,4,3,60.39,60.38999999999978
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel a,florianopolis (sc),3,5,3,313.02,313.0200000000003
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel au,recife (pe),2,5,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),3,5,3,247.62,247.61999999999748
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel cb,rio de janeiro (rj),2,5,3,165.99,165.989999999998
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),1,5,3,165.99,165.989999999998
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),1,5,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel au,recife (pe),2,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel bw,campo grande (ms),4,5,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel af,sao paulo (sp),4,5,3,139.1,139.10000000000161
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bd,natal (rn),3,5,3,242.88,242.88000000000258
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,5,3,139.1,139.10000000000161
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),4,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,5,3,165.99,165.989999999998
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel z,aracaju (se),1,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel a,florianopolis (sc),1,5,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),1,5,3,165.99,165.989999999998
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel a,florianopolis (sc),1,5,3,313.02,313.0200000000003
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel cb,rio de janeiro (rj),1,5,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel bw,campo grande (ms),4,5,3,60.39,60.38999999999979
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),1,5,3,313.02,313.0200000000003
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel z,aracaju (se),3,5,3,208.04,208.03999999999877
+hotel cb,rio de janeiro (rj),2,5,3,165.99,165.989999999998
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel bp,brasilia (df),3,5,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel cb,rio de janeiro (rj),1,5,3,165.99,165.989999999998
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel cb,rio de janeiro (rj),2,5,3,165.99,165.989999999998
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel au,recife (pe),1,5,3,312.83,312.82999999999896
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel bw,campo grande (ms),4,5,3,60.39,60.38999999999979
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel a,florianopolis (sc),2,5,3,313.02,313.0200000000003
+hotel cb,rio de janeiro (rj),4,5,3,165.99,165.989999999998
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel bp,brasilia (df),2,5,3,247.62,247.61999999999748
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),2,5,3,263.41,263.4100000000014
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel k,salvador (bh),4,5,3,263.41,263.41000000000133
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel bp,brasilia (df),1,5,3,247.62,247.6199999999977
+hotel au,recife (pe),1,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),2,5,3,165.99,165.989999999998
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel z,aracaju (se),4,5,3,208.04,208.03999999999877
+hotel af,sao paulo (sp),3,5,3,139.1,139.10000000000161
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
+hotel bw,campo grande (ms),3,5,3,60.39,60.389999999999766
+hotel af,sao paulo (sp),2,5,3,139.1,139.10000000000161
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel bw,campo grande (ms),2,5,3,60.39,60.389999999999745
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel cb,rio de janeiro (rj),1,5,3,165.99,165.989999999998
+hotel au,recife (pe),2,5,3,312.83,312.82999999999896
+hotel au,recife (pe),4,5,3,312.83,312.82999999999896
+hotel af,sao paulo (sp),1,5,3,139.1,139.10000000000161
+hotel af,sao paulo (sp),4,5,3,139.1,139.10000000000161
+hotel bw,campo grande (ms),4,5,3,60.39,60.38999999999979
+hotel cb,rio de janeiro (rj),3,5,3,165.99,165.989999999998
+hotel a,florianopolis (sc),4,5,3,313.02,313.0200000000003
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bd,natal (rn),2,5,3,242.88,242.88000000000258
+hotel bd,natal (rn),3,5,3,242.88,242.88000000000258
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel z,aracaju (se),2,5,3,208.04,208.03999999999877
+hotel bd,natal (rn),1,5,3,242.88,242.88000000000218
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel k,salvador (bh),1,5,3,263.41,263.4100000000014
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel bw,campo grande (ms),1,5,3,60.39,60.389999999999766
+hotel bp,brasilia (df),4,5,3,247.62,247.61999999999756
+hotel a,florianopolis (sc),3,5,3,313.02,313.0200000000003
+hotel bd,natal (rn),4,5,3,242.88,242.88000000000247
+hotel k,salvador (bh),3,5,3,263.41,263.4100000000013
+hotel au,recife (pe),3,5,3,312.83,312.82999999999896
