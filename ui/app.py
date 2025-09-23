@@ -11,7 +11,8 @@ st.set_page_config(page_title="Voyage — Travel ML", layout="wide")
 with open("ui/styles.css","r") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-API_BASE = os.environ.get("API_BASE", "http://voyage:8080")
+#API_BASE = os.environ.get("API_BASE", "http://voyage:8080")
+API_BASE = os.environ.get("API_BASE", "http://dhruvsolutions-docker.hf.space")
 
 @st.cache_data(ttl=30)
 def get_health():
