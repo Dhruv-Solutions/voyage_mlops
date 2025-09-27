@@ -1,0 +1,33 @@
+name: data-checks-and-train
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pandera[yaml]==0.18.3 mlflow==2.14.1
+      - name: Data QA
+        run: |
+          python -c "from ml.data_checks import *; import pandas as pd; \
+          df_f=pd.read_csv('data/flights.csv'); validate_flights(df_f); \
+          df_h=pd.read_csv('data/hotels.csv'); validate_hotels(df_h)"
+      - name: Train
+        env:
+          MLFLOW_TRACKING_URI: ${{ secrets.MLFLOW_TRACKING_URI }}
+        run: |
+          bash scripts/train_all.sh
+      - name: Persist Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: models
+          path: models/
